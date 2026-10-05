@@ -1,0 +1,1361 @@
+Provinsi,Tahun,Indikator,Nilai,Tipe_Data
+Aceh,2022,Penduduk_Akses_Internet,52.99,Aktual
+Aceh,2022,Penduduk_Telepon_Seluler,62.65,Aktual
+Aceh,2022,Penduduk_Menggunakan_Komputer,8.97,Aktual
+Aceh,2022,Rumah_Tangga_Komputer,13.7,Aktual
+Aceh,2022,Rumah_Tangga_Akses_Internet,79.85,Aktual
+Aceh,2023,Penduduk_Akses_Internet,59.3,Aktual
+Aceh,2023,Penduduk_Telepon_Seluler,62.87,Aktual
+Aceh,2023,Penduduk_Menggunakan_Komputer,9.32,Aktual
+Aceh,2023,Rumah_Tangga_Komputer,15.1,Aktual
+Aceh,2023,Rumah_Tangga_Akses_Internet,86.46,Aktual
+Aceh,2024,Penduduk_Akses_Internet,62.93,Aktual
+Aceh,2024,Penduduk_Telepon_Seluler,64.64,Aktual
+Aceh,2024,Penduduk_Menggunakan_Komputer,9.37,Aktual
+Aceh,2024,Rumah_Tangga_Komputer,15.49,Aktual
+Aceh,2024,Rumah_Tangga_Akses_Internet,88.95,Aktual
+Aceh,2025,Penduduk_Akses_Internet,70.03,Aktual
+Aceh,2025,Penduduk_Telepon_Seluler,68.21,Aktual
+Aceh,2025,Penduduk_Menggunakan_Komputer,10.14,Aktual
+Aceh,2025,Rumah_Tangga_Komputer,17.59,Aktual
+Aceh,2025,Rumah_Tangga_Akses_Internet,91.91,Aktual
+Aceh,2026,Penduduk_Akses_Internet,75.0,Forecast
+Aceh,2027,Penduduk_Akses_Internet,80.47500000000036,Forecast
+Aceh,2028,Penduduk_Akses_Internet,85.95000000000073,Forecast
+Aceh,2029,Penduduk_Akses_Internet,91.42500000000109,Forecast
+Aceh,2026,Penduduk_Telepon_Seluler,69.71689760692308,Forecast
+Aceh,2027,Penduduk_Telepon_Seluler,71.61468527659181,Forecast
+Aceh,2028,Penduduk_Telepon_Seluler,73.51247294626054,Forecast
+Aceh,2029,Penduduk_Telepon_Seluler,75.41026061592929,Forecast
+Aceh,2026,Penduduk_Menggunakan_Komputer,10.340000000000032,Forecast
+Aceh,2027,Penduduk_Menggunakan_Komputer,10.696000000000026,Forecast
+Aceh,2028,Penduduk_Menggunakan_Komputer,11.052000000000021,Forecast
+Aceh,2029,Penduduk_Menggunakan_Komputer,11.408000000000015,Forecast
+Aceh,2026,Rumah_Tangga_Komputer,18.68570165602484,Forecast
+Aceh,2027,Rumah_Tangga_Komputer,19.942253532763754,Forecast
+Aceh,2028,Rumah_Tangga_Komputer,21.19880540950267,Forecast
+Aceh,2029,Rumah_Tangga_Komputer,22.455357286241586,Forecast
+Aceh,2026,Rumah_Tangga_Akses_Internet,96.07311395640656,Forecast
+Aceh,2027,Rumah_Tangga_Akses_Internet,99.95463440565398,Forecast
+Aceh,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Aceh,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Sumatera Utara,2022,Penduduk_Akses_Internet,65.68,Aktual
+Sumatera Utara,2022,Penduduk_Telepon_Seluler,67.71,Aktual
+Sumatera Utara,2022,Penduduk_Menggunakan_Komputer,10.83,Aktual
+Sumatera Utara,2022,Rumah_Tangga_Komputer,15.41,Aktual
+Sumatera Utara,2022,Rumah_Tangga_Akses_Internet,86.61,Aktual
+Sumatera Utara,2023,Penduduk_Akses_Internet,70.29,Aktual
+Sumatera Utara,2023,Penduduk_Telepon_Seluler,67.42,Aktual
+Sumatera Utara,2023,Penduduk_Menggunakan_Komputer,10.29,Aktual
+Sumatera Utara,2023,Rumah_Tangga_Komputer,15.39,Aktual
+Sumatera Utara,2023,Rumah_Tangga_Akses_Internet,89.66,Aktual
+Sumatera Utara,2024,Penduduk_Akses_Internet,74.15,Aktual
+Sumatera Utara,2024,Penduduk_Telepon_Seluler,68.43,Aktual
+Sumatera Utara,2024,Penduduk_Menggunakan_Komputer,9.95,Aktual
+Sumatera Utara,2024,Rumah_Tangga_Komputer,15.35,Aktual
+Sumatera Utara,2024,Rumah_Tangga_Akses_Internet,92.3,Aktual
+Sumatera Utara,2025,Penduduk_Akses_Internet,79.6,Aktual
+Sumatera Utara,2025,Penduduk_Telepon_Seluler,70.4,Aktual
+Sumatera Utara,2025,Penduduk_Menggunakan_Komputer,10.12,Aktual
+Sumatera Utara,2025,Rumah_Tangga_Komputer,16.32,Aktual
+Sumatera Utara,2025,Rumah_Tangga_Akses_Internet,93.34,Aktual
+Sumatera Utara,2026,Penduduk_Akses_Internet,83.83500000000095,Forecast
+Sumatera Utara,2027,Penduduk_Akses_Internet,88.39700000000084,Forecast
+Sumatera Utara,2028,Penduduk_Akses_Internet,92.95900000000074,Forecast
+Sumatera Utara,2029,Penduduk_Akses_Internet,97.52100000000064,Forecast
+Sumatera Utara,2026,Penduduk_Telepon_Seluler,71.08746706777048,Forecast
+Sumatera Utara,2027,Penduduk_Telepon_Seluler,72.02354356055659,Forecast
+Sumatera Utara,2028,Penduduk_Telepon_Seluler,72.95962005334269,Forecast
+Sumatera Utara,2029,Penduduk_Telepon_Seluler,73.8956965461288,Forecast
+Sumatera Utara,2026,Penduduk_Menggunakan_Komputer,9.680000000000064,Forecast
+Sumatera Utara,2027,Penduduk_Menggunakan_Komputer,9.43300000000005,Forecast
+Sumatera Utara,2028,Penduduk_Menggunakan_Komputer,9.186000000000035,Forecast
+Sumatera Utara,2029,Penduduk_Menggunakan_Komputer,8.939000000000021,Forecast
+Sumatera Utara,2026,Rumah_Tangga_Komputer,16.4748730506664,Forecast
+Sumatera Utara,2027,Rumah_Tangga_Komputer,16.77363772791561,Forecast
+Sumatera Utara,2028,Rumah_Tangga_Komputer,17.07240240516482,Forecast
+Sumatera Utara,2029,Rumah_Tangga_Komputer,17.371167082414033,Forecast
+Sumatera Utara,2026,Rumah_Tangga_Akses_Internet,95.84131984875239,Forecast
+Sumatera Utara,2027,Rumah_Tangga_Akses_Internet,98.07724106372179,Forecast
+Sumatera Utara,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Sumatera Utara,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Sumatera Barat,2022,Penduduk_Akses_Internet,63.13,Aktual
+Sumatera Barat,2022,Penduduk_Telepon_Seluler,68.24,Aktual
+Sumatera Barat,2022,Penduduk_Menggunakan_Komputer,13.22,Aktual
+Sumatera Barat,2022,Rumah_Tangga_Komputer,20.14,Aktual
+Sumatera Barat,2022,Rumah_Tangga_Akses_Internet,87.52,Aktual
+Sumatera Barat,2023,Penduduk_Akses_Internet,68.64,Aktual
+Sumatera Barat,2023,Penduduk_Telepon_Seluler,67.78,Aktual
+Sumatera Barat,2023,Penduduk_Menggunakan_Komputer,13.12,Aktual
+Sumatera Barat,2023,Rumah_Tangga_Komputer,19.75,Aktual
+Sumatera Barat,2023,Rumah_Tangga_Akses_Internet,89.92,Aktual
+Sumatera Barat,2024,Penduduk_Akses_Internet,74.59,Aktual
+Sumatera Barat,2024,Penduduk_Telepon_Seluler,68.45,Aktual
+Sumatera Barat,2024,Penduduk_Menggunakan_Komputer,12.83,Aktual
+Sumatera Barat,2024,Rumah_Tangga_Komputer,20.48,Aktual
+Sumatera Barat,2024,Rumah_Tangga_Akses_Internet,91.89,Aktual
+Sumatera Barat,2025,Penduduk_Akses_Internet,80.47,Aktual
+Sumatera Barat,2025,Penduduk_Telepon_Seluler,70.33,Aktual
+Sumatera Barat,2025,Penduduk_Menggunakan_Komputer,14.29,Aktual
+Sumatera Barat,2025,Rumah_Tangga_Komputer,22.21,Aktual
+Sumatera Barat,2025,Rumah_Tangga_Akses_Internet,94.13,Aktual
+Sumatera Barat,2026,Penduduk_Akses_Internet,86.20000000000073,Forecast
+Sumatera Barat,2027,Penduduk_Akses_Internet,91.99700000000121,Forecast
+Sumatera Barat,2028,Penduduk_Akses_Internet,97.79399999999987,Forecast
+Sumatera Barat,2029,Penduduk_Akses_Internet,100.0,Forecast
+Sumatera Barat,2026,Penduduk_Telepon_Seluler,70.78923999156346,Forecast
+Sumatera Barat,2027,Penduduk_Telepon_Seluler,71.51871119324147,Forecast
+Sumatera Barat,2028,Penduduk_Telepon_Seluler,72.24818239491947,Forecast
+Sumatera Barat,2029,Penduduk_Telepon_Seluler,72.97765359659748,Forecast
+Sumatera Barat,2026,Penduduk_Menggunakan_Komputer,14.095000000000027,Forecast
+Sumatera Barat,2027,Penduduk_Menggunakan_Komputer,14.387000000000057,Forecast
+Sumatera Barat,2028,Penduduk_Menggunakan_Komputer,14.678999999999974,Forecast
+Sumatera Barat,2029,Penduduk_Menggunakan_Komputer,14.971000000000004,Forecast
+Sumatera Barat,2026,Rumah_Tangga_Komputer,22.694172070500255,Forecast
+Sumatera Barat,2027,Rumah_Tangga_Komputer,23.417456802343054,Forecast
+Sumatera Barat,2028,Rumah_Tangga_Komputer,24.140741534185853,Forecast
+Sumatera Barat,2029,Rumah_Tangga_Komputer,24.864026266028652,Forecast
+Sumatera Barat,2026,Rumah_Tangga_Akses_Internet,96.31556673364629,Forecast
+Sumatera Barat,2027,Rumah_Tangga_Akses_Internet,98.50359251323981,Forecast
+Sumatera Barat,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Sumatera Barat,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Riau,2022,Penduduk_Akses_Internet,68.85,Aktual
+Riau,2022,Penduduk_Telepon_Seluler,73.47,Aktual
+Riau,2022,Penduduk_Menggunakan_Komputer,10.78,Aktual
+Riau,2022,Rumah_Tangga_Komputer,18.58,Aktual
+Riau,2022,Rumah_Tangga_Akses_Internet,91.01,Aktual
+Riau,2023,Penduduk_Akses_Internet,73.02,Aktual
+Riau,2023,Penduduk_Telepon_Seluler,72.4,Aktual
+Riau,2023,Penduduk_Menggunakan_Komputer,11.17,Aktual
+Riau,2023,Rumah_Tangga_Komputer,18.65,Aktual
+Riau,2023,Rumah_Tangga_Akses_Internet,93.25,Aktual
+Riau,2024,Penduduk_Akses_Internet,77.68,Aktual
+Riau,2024,Penduduk_Telepon_Seluler,74.74,Aktual
+Riau,2024,Penduduk_Menggunakan_Komputer,10.3,Aktual
+Riau,2024,Rumah_Tangga_Komputer,17.98,Aktual
+Riau,2024,Rumah_Tangga_Akses_Internet,94.16,Aktual
+Riau,2025,Penduduk_Akses_Internet,80.99,Aktual
+Riau,2025,Penduduk_Telepon_Seluler,76.17,Aktual
+Riau,2025,Penduduk_Menggunakan_Komputer,11.34,Aktual
+Riau,2025,Rumah_Tangga_Komputer,18.54,Aktual
+Riau,2025,Rumah_Tangga_Akses_Internet,95.29,Aktual
+Riau,2026,Penduduk_Akses_Internet,85.40500000000065,Forecast
+Riau,2027,Penduduk_Akses_Internet,89.51300000000083,Forecast
+Riau,2028,Penduduk_Akses_Internet,93.621000000001,Forecast
+Riau,2029,Penduduk_Akses_Internet,97.72900000000118,Forecast
+Riau,2026,Penduduk_Telepon_Seluler,77.02866318773586,Forecast
+Riau,2027,Penduduk_Telepon_Seluler,78.0452933572288,Forecast
+Riau,2028,Penduduk_Telepon_Seluler,79.06192352672176,Forecast
+Riau,2029,Penduduk_Telepon_Seluler,80.07855369621471,Forecast
+Riau,2026,Penduduk_Menggunakan_Komputer,11.099999999999994,Forecast
+Riau,2027,Penduduk_Menggunakan_Komputer,11.181000000000012,Forecast
+Riau,2028,Penduduk_Menggunakan_Komputer,11.262,Forecast
+Riau,2029,Penduduk_Menggunakan_Komputer,11.34299999999999,Forecast
+Riau,2026,Rumah_Tangga_Komputer,18.38281056406889,Forecast
+Riau,2027,Rumah_Tangga_Komputer,18.340174893552287,Forecast
+Riau,2028,Rumah_Tangga_Komputer,18.297539223035685,Forecast
+Riau,2029,Rumah_Tangga_Komputer,18.25490355251908,Forecast
+Riau,2026,Rumah_Tangga_Akses_Internet,96.75276155728704,Forecast
+Riau,2027,Rumah_Tangga_Akses_Internet,98.13446185010083,Forecast
+Riau,2028,Rumah_Tangga_Akses_Internet,99.51616214291464,Forecast
+Riau,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Jambi,2022,Penduduk_Akses_Internet,64.06,Aktual
+Jambi,2022,Penduduk_Telepon_Seluler,69.64,Aktual
+Jambi,2022,Penduduk_Menggunakan_Komputer,9.77,Aktual
+Jambi,2022,Rumah_Tangga_Komputer,16.24,Aktual
+Jambi,2022,Rumah_Tangga_Akses_Internet,87.34,Aktual
+Jambi,2023,Penduduk_Akses_Internet,68.14,Aktual
+Jambi,2023,Penduduk_Telepon_Seluler,69.23,Aktual
+Jambi,2023,Penduduk_Menggunakan_Komputer,9.51,Aktual
+Jambi,2023,Rumah_Tangga_Komputer,17.75,Aktual
+Jambi,2023,Rumah_Tangga_Akses_Internet,89.52,Aktual
+Jambi,2024,Penduduk_Akses_Internet,71.76,Aktual
+Jambi,2024,Penduduk_Telepon_Seluler,70.2,Aktual
+Jambi,2024,Penduduk_Menggunakan_Komputer,10.0,Aktual
+Jambi,2024,Rumah_Tangga_Komputer,17.6,Aktual
+Jambi,2024,Rumah_Tangga_Akses_Internet,90.59,Aktual
+Jambi,2025,Penduduk_Akses_Internet,76.27,Aktual
+Jambi,2025,Penduduk_Telepon_Seluler,71.03,Aktual
+Jambi,2025,Penduduk_Menggunakan_Komputer,10.44,Aktual
+Jambi,2025,Rumah_Tangga_Komputer,18.39,Aktual
+Jambi,2025,Rumah_Tangga_Akses_Internet,92.51,Aktual
+Jambi,2026,Penduduk_Akses_Internet,80.11999999999989,Forecast
+Jambi,2027,Penduduk_Akses_Internet,84.14500000000044,Forecast
+Jambi,2028,Penduduk_Akses_Internet,88.17000000000007,Forecast
+Jambi,2029,Penduduk_Akses_Internet,92.19499999999971,Forecast
+Jambi,2026,Penduduk_Telepon_Seluler,71.44281736521862,Forecast
+Jambi,2027,Penduduk_Telepon_Seluler,71.95246701643273,Forecast
+Jambi,2028,Penduduk_Telepon_Seluler,72.46211666764685,Forecast
+Jambi,2029,Penduduk_Telepon_Seluler,72.97176631886097,Forecast
+Jambi,2026,Penduduk_Menggunakan_Komputer,10.555000000000007,Forecast
+Jambi,2027,Penduduk_Menggunakan_Komputer,10.805000000000007,Forecast
+Jambi,2028,Penduduk_Menggunakan_Komputer,11.055000000000007,Forecast
+Jambi,2029,Penduduk_Menggunakan_Komputer,11.305000000000007,Forecast
+Jambi,2026,Rumah_Tangga_Komputer,19.053226493791904,Forecast
+Jambi,2027,Rumah_Tangga_Komputer,19.71119581757862,Forecast
+Jambi,2028,Rumah_Tangga_Komputer,20.369165141365336,Forecast
+Jambi,2029,Rumah_Tangga_Komputer,21.027134465152052,Forecast
+Jambi,2026,Rumah_Tangga_Akses_Internet,94.16482220388839,Forecast
+Jambi,2027,Rumah_Tangga_Akses_Internet,95.84804966189486,Forecast
+Jambi,2028,Rumah_Tangga_Akses_Internet,97.53127711990133,Forecast
+Jambi,2029,Rumah_Tangga_Akses_Internet,99.2145045779078,Forecast
+Sumatera Selatan,2022,Penduduk_Akses_Internet,62.57,Aktual
+Sumatera Selatan,2022,Penduduk_Telepon_Seluler,66.25,Aktual
+Sumatera Selatan,2022,Penduduk_Menggunakan_Komputer,8.99,Aktual
+Sumatera Selatan,2022,Rumah_Tangga_Komputer,14.42,Aktual
+Sumatera Selatan,2022,Rumah_Tangga_Akses_Internet,85.79,Aktual
+Sumatera Selatan,2023,Penduduk_Akses_Internet,66.66,Aktual
+Sumatera Selatan,2023,Penduduk_Telepon_Seluler,66.23,Aktual
+Sumatera Selatan,2023,Penduduk_Menggunakan_Komputer,9.09,Aktual
+Sumatera Selatan,2023,Rumah_Tangga_Komputer,14.78,Aktual
+Sumatera Selatan,2023,Rumah_Tangga_Akses_Internet,89.91,Aktual
+Sumatera Selatan,2024,Penduduk_Akses_Internet,70.54,Aktual
+Sumatera Selatan,2024,Penduduk_Telepon_Seluler,67.34,Aktual
+Sumatera Selatan,2024,Penduduk_Menggunakan_Komputer,8.79,Aktual
+Sumatera Selatan,2024,Rumah_Tangga_Komputer,14.93,Aktual
+Sumatera Selatan,2024,Rumah_Tangga_Akses_Internet,90.94,Aktual
+Sumatera Selatan,2025,Penduduk_Akses_Internet,75.74,Aktual
+Sumatera Selatan,2025,Penduduk_Telepon_Seluler,69.5,Aktual
+Sumatera Selatan,2025,Penduduk_Menggunakan_Komputer,11.09,Aktual
+Sumatera Selatan,2025,Rumah_Tangga_Komputer,17.79,Aktual
+Sumatera Selatan,2025,Rumah_Tangga_Akses_Internet,92.91,Aktual
+Sumatera Selatan,2026,Penduduk_Akses_Internet,79.72500000000036,Forecast
+Sumatera Selatan,2027,Penduduk_Akses_Internet,84.0640000000003,Forecast
+Sumatera Selatan,2028,Penduduk_Akses_Internet,88.40300000000025,Forecast
+Sumatera Selatan,2029,Penduduk_Akses_Internet,92.74200000000019,Forecast
+Sumatera Selatan,2026,Penduduk_Telepon_Seluler,70.36958801017927,Forecast
+Sumatera Selatan,2027,Penduduk_Telepon_Seluler,71.48634403398276,Forecast
+Sumatera Selatan,2028,Penduduk_Telepon_Seluler,72.60310005778626,Forecast
+Sumatera Selatan,2029,Penduduk_Telepon_Seluler,73.71985608158975,Forecast
+Sumatera Selatan,2026,Penduduk_Menggunakan_Komputer,10.990000000000009,Forecast
+Sumatera Selatan,2027,Penduduk_Menggunakan_Komputer,11.590000000000146,Forecast
+Sumatera Selatan,2028,Penduduk_Menggunakan_Komputer,12.190000000000055,Forecast
+Sumatera Selatan,2029,Penduduk_Menggunakan_Komputer,12.789999999999964,Forecast
+Sumatera Selatan,2026,Rumah_Tangga_Komputer,18.52305965541943,Forecast
+Sumatera Selatan,2027,Rumah_Tangga_Komputer,19.628948712687237,Forecast
+Sumatera Selatan,2028,Rumah_Tangga_Komputer,20.73483776995504,Forecast
+Sumatera Selatan,2029,Rumah_Tangga_Komputer,21.840726827222845,Forecast
+Sumatera Selatan,2026,Rumah_Tangga_Akses_Internet,95.3037114600394,Forecast
+Sumatera Selatan,2027,Rumah_Tangga_Akses_Internet,97.57091356004416,Forecast
+Sumatera Selatan,2028,Rumah_Tangga_Akses_Internet,99.83811566004893,Forecast
+Sumatera Selatan,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Bengkulu,2022,Penduduk_Akses_Internet,63.14,Aktual
+Bengkulu,2022,Penduduk_Telepon_Seluler,66.81,Aktual
+Bengkulu,2022,Penduduk_Menggunakan_Komputer,11.49,Aktual
+Bengkulu,2022,Rumah_Tangga_Komputer,17.9,Aktual
+Bengkulu,2022,Rumah_Tangga_Akses_Internet,86.43,Aktual
+Bengkulu,2023,Penduduk_Akses_Internet,66.25,Aktual
+Bengkulu,2023,Penduduk_Telepon_Seluler,66.49,Aktual
+Bengkulu,2023,Penduduk_Menggunakan_Komputer,12.11,Aktual
+Bengkulu,2023,Rumah_Tangga_Komputer,17.83,Aktual
+Bengkulu,2023,Rumah_Tangga_Akses_Internet,88.82,Aktual
+Bengkulu,2024,Penduduk_Akses_Internet,70.72,Aktual
+Bengkulu,2024,Penduduk_Telepon_Seluler,67.1,Aktual
+Bengkulu,2024,Penduduk_Menggunakan_Komputer,11.34,Aktual
+Bengkulu,2024,Rumah_Tangga_Komputer,19.79,Aktual
+Bengkulu,2024,Rumah_Tangga_Akses_Internet,90.62,Aktual
+Bengkulu,2025,Penduduk_Akses_Internet,77.75,Aktual
+Bengkulu,2025,Penduduk_Telepon_Seluler,71.1,Aktual
+Bengkulu,2025,Penduduk_Menggunakan_Komputer,13.01,Aktual
+Bengkulu,2025,Rumah_Tangga_Komputer,21.87,Aktual
+Bengkulu,2025,Rumah_Tangga_Akses_Internet,92.83,Aktual
+Bengkulu,2026,Penduduk_Akses_Internet,81.53999999999905,Forecast
+Bengkulu,2027,Penduduk_Akses_Internet,86.36999999999898,Forecast
+Bengkulu,2028,Penduduk_Akses_Internet,91.19999999999891,Forecast
+Bengkulu,2029,Penduduk_Akses_Internet,96.02999999999884,Forecast
+Bengkulu,2026,Penduduk_Telepon_Seluler,71.98022917526359,Forecast
+Bengkulu,2027,Penduduk_Telepon_Seluler,73.4279697315723,Forecast
+Bengkulu,2028,Penduduk_Telepon_Seluler,74.87571028788103,Forecast
+Bengkulu,2029,Penduduk_Telepon_Seluler,76.32345084418975,Forecast
+Bengkulu,2026,Penduduk_Menggunakan_Komputer,12.934999999999945,Forecast
+Bengkulu,2027,Penduduk_Menggunakan_Komputer,13.313999999999965,Forecast
+Bengkulu,2028,Penduduk_Menggunakan_Komputer,13.69299999999987,Forecast
+Bengkulu,2029,Penduduk_Menggunakan_Komputer,14.071999999999889,Forecast
+Bengkulu,2026,Rumah_Tangga_Komputer,23.070780726008156,Forecast
+Bengkulu,2027,Rumah_Tangga_Komputer,24.460986234137604,Forecast
+Bengkulu,2028,Rumah_Tangga_Komputer,25.851191742267048,Forecast
+Bengkulu,2029,Rumah_Tangga_Komputer,27.241397250396496,Forecast
+Bengkulu,2026,Rumah_Tangga_Akses_Internet,94.93310473981514,Forecast
+Bengkulu,2027,Rumah_Tangga_Akses_Internet,97.0452821967625,Forecast
+Bengkulu,2028,Rumah_Tangga_Akses_Internet,99.15745965370986,Forecast
+Bengkulu,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Lampung,2022,Penduduk_Akses_Internet,65.21,Aktual
+Lampung,2022,Penduduk_Telepon_Seluler,66.08,Aktual
+Lampung,2022,Penduduk_Menggunakan_Komputer,7.39,Aktual
+Lampung,2022,Rumah_Tangga_Komputer,10.7,Aktual
+Lampung,2022,Rumah_Tangga_Akses_Internet,87.9,Aktual
+Lampung,2023,Penduduk_Akses_Internet,70.68,Aktual
+Lampung,2023,Penduduk_Telepon_Seluler,65.0,Aktual
+Lampung,2023,Penduduk_Menggunakan_Komputer,8.63,Aktual
+Lampung,2023,Rumah_Tangga_Komputer,10.63,Aktual
+Lampung,2023,Rumah_Tangga_Akses_Internet,88.88,Aktual
+Lampung,2024,Penduduk_Akses_Internet,73.37,Aktual
+Lampung,2024,Penduduk_Telepon_Seluler,64.52,Aktual
+Lampung,2024,Penduduk_Menggunakan_Komputer,7.88,Aktual
+Lampung,2024,Rumah_Tangga_Komputer,10.89,Aktual
+Lampung,2024,Rumah_Tangga_Akses_Internet,91.57,Aktual
+Lampung,2025,Penduduk_Akses_Internet,79.42,Aktual
+Lampung,2025,Penduduk_Telepon_Seluler,67.5,Aktual
+Lampung,2025,Penduduk_Menggunakan_Komputer,9.72,Aktual
+Lampung,2025,Rumah_Tangga_Komputer,13.1,Aktual
+Lampung,2025,Rumah_Tangga_Akses_Internet,93.86,Aktual
+Lampung,2026,Penduduk_Akses_Internet,83.5,Forecast
+Lampung,2027,Penduduk_Akses_Internet,88.03199999999924,Forecast
+Lampung,2028,Penduduk_Akses_Internet,92.5640000000003,Forecast
+Lampung,2029,Penduduk_Akses_Internet,97.09599999999955,Forecast
+Lampung,2026,Penduduk_Telepon_Seluler,67.43023823121631,Forecast
+Lampung,2027,Penduduk_Telepon_Seluler,67.91009640607047,Forecast
+Lampung,2028,Penduduk_Telepon_Seluler,68.38995458092462,Forecast
+Lampung,2029,Penduduk_Telepon_Seluler,68.86981275577878,Forecast
+Lampung,2026,Penduduk_Menggunakan_Komputer,9.964999999999918,Forecast
+Lampung,2027,Penduduk_Menggunakan_Komputer,10.588999999999942,Forecast
+Lampung,2028,Penduduk_Menggunakan_Komputer,11.212999999999965,Forecast
+Lampung,2029,Penduduk_Menggunakan_Komputer,11.836999999999989,Forecast
+Lampung,2026,Rumah_Tangga_Komputer,13.594339537994918,Forecast
+Lampung,2027,Rumah_Tangga_Komputer,14.397745282642276,Forecast
+Lampung,2028,Rumah_Tangga_Komputer,15.201151027289633,Forecast
+Lampung,2029,Rumah_Tangga_Komputer,16.004556771936993,Forecast
+Lampung,2026,Rumah_Tangga_Akses_Internet,95.81759879905898,Forecast
+Lampung,2027,Rumah_Tangga_Akses_Internet,97.86253324071525,Forecast
+Lampung,2028,Rumah_Tangga_Akses_Internet,99.9074676823715,Forecast
+Lampung,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Kep. Bangka Belitung,2022,Penduduk_Akses_Internet,68.7,Aktual
+Kep. Bangka Belitung,2022,Penduduk_Telepon_Seluler,73.16,Aktual
+Kep. Bangka Belitung,2022,Penduduk_Menggunakan_Komputer,11.09,Aktual
+Kep. Bangka Belitung,2022,Rumah_Tangga_Komputer,17.89,Aktual
+Kep. Bangka Belitung,2022,Rumah_Tangga_Akses_Internet,89.81,Aktual
+Kep. Bangka Belitung,2023,Penduduk_Akses_Internet,72.03,Aktual
+Kep. Bangka Belitung,2023,Penduduk_Telepon_Seluler,71.43,Aktual
+Kep. Bangka Belitung,2023,Penduduk_Menggunakan_Komputer,11.69,Aktual
+Kep. Bangka Belitung,2023,Rumah_Tangga_Komputer,19.64,Aktual
+Kep. Bangka Belitung,2023,Rumah_Tangga_Akses_Internet,91.16,Aktual
+Kep. Bangka Belitung,2024,Penduduk_Akses_Internet,76.06,Aktual
+Kep. Bangka Belitung,2024,Penduduk_Telepon_Seluler,71.38,Aktual
+Kep. Bangka Belitung,2024,Penduduk_Menggunakan_Komputer,11.21,Aktual
+Kep. Bangka Belitung,2024,Rumah_Tangga_Komputer,19.29,Aktual
+Kep. Bangka Belitung,2024,Rumah_Tangga_Akses_Internet,92.14,Aktual
+Kep. Bangka Belitung,2025,Penduduk_Akses_Internet,81.5,Aktual
+Kep. Bangka Belitung,2025,Penduduk_Telepon_Seluler,74.27,Aktual
+Kep. Bangka Belitung,2025,Penduduk_Menggunakan_Komputer,12.82,Aktual
+Kep. Bangka Belitung,2025,Rumah_Tangga_Komputer,21.02,Aktual
+Kep. Bangka Belitung,2025,Rumah_Tangga_Akses_Internet,93.84,Aktual
+Kep. Bangka Belitung,2026,Penduduk_Akses_Internet,85.18000000000029,Forecast
+Kep. Bangka Belitung,2027,Penduduk_Akses_Internet,89.42300000000068,Forecast
+Kep. Bangka Belitung,2028,Penduduk_Akses_Internet,93.66599999999926,Forecast
+Kep. Bangka Belitung,2029,Penduduk_Akses_Internet,97.90899999999965,Forecast
+Kep. Bangka Belitung,2026,Penduduk_Telepon_Seluler,74.11812218653779,Forecast
+Kep. Bangka Belitung,2027,Penduduk_Telepon_Seluler,74.53248307338094,Forecast
+Kep. Bangka Belitung,2028,Penduduk_Telepon_Seluler,74.9468439602241,Forecast
+Kep. Bangka Belitung,2029,Penduduk_Telepon_Seluler,75.36120484706726,Forecast
+Kep. Bangka Belitung,2026,Penduduk_Menggunakan_Komputer,12.879999999999995,Forecast
+Kep. Bangka Belitung,2027,Penduduk_Menggunakan_Komputer,13.350999999999999,Forecast
+Kep. Bangka Belitung,2028,Penduduk_Menggunakan_Komputer,13.822000000000003,Forecast
+Kep. Bangka Belitung,2029,Penduduk_Menggunakan_Komputer,14.293000000000006,Forecast
+Kep. Bangka Belitung,2026,Rumah_Tangga_Komputer,21.86387222259573,Forecast
+Kep. Bangka Belitung,2027,Rumah_Tangga_Komputer,22.8295053278218,Forecast
+Kep. Bangka Belitung,2028,Rumah_Tangga_Komputer,23.795138433047864,Forecast
+Kep. Bangka Belitung,2029,Rumah_Tangga_Komputer,24.76077153827393,Forecast
+Kep. Bangka Belitung,2026,Rumah_Tangga_Akses_Internet,95.09586303365283,Forecast
+Kep. Bangka Belitung,2027,Rumah_Tangga_Akses_Internet,96.42413850745496,Forecast
+Kep. Bangka Belitung,2028,Rumah_Tangga_Akses_Internet,97.75241398125709,Forecast
+Kep. Bangka Belitung,2029,Rumah_Tangga_Akses_Internet,99.08068945505923,Forecast
+Kep. Riau,2022,Penduduk_Akses_Internet,82.4,Aktual
+Kep. Riau,2022,Penduduk_Telepon_Seluler,79.88,Aktual
+Kep. Riau,2022,Penduduk_Menggunakan_Komputer,16.54,Aktual
+Kep. Riau,2022,Rumah_Tangga_Komputer,27.47,Aktual
+Kep. Riau,2022,Rumah_Tangga_Akses_Internet,95.26,Aktual
+Kep. Riau,2023,Penduduk_Akses_Internet,86.71,Aktual
+Kep. Riau,2023,Penduduk_Telepon_Seluler,80.37,Aktual
+Kep. Riau,2023,Penduduk_Menggunakan_Komputer,20.49,Aktual
+Kep. Riau,2023,Rumah_Tangga_Komputer,31.46,Aktual
+Kep. Riau,2023,Rumah_Tangga_Akses_Internet,95.98,Aktual
+Kep. Riau,2024,Penduduk_Akses_Internet,89.26,Aktual
+Kep. Riau,2024,Penduduk_Telepon_Seluler,83.9,Aktual
+Kep. Riau,2024,Penduduk_Menggunakan_Komputer,18.34,Aktual
+Kep. Riau,2024,Rumah_Tangga_Komputer,30.36,Aktual
+Kep. Riau,2024,Rumah_Tangga_Akses_Internet,97.57,Aktual
+Kep. Riau,2025,Penduduk_Akses_Internet,91.32,Aktual
+Kep. Riau,2025,Penduduk_Telepon_Seluler,82.18,Aktual
+Kep. Riau,2025,Penduduk_Menggunakan_Komputer,19.19,Aktual
+Kep. Riau,2025,Rumah_Tangga_Komputer,32.5,Aktual
+Kep. Riau,2025,Rumah_Tangga_Akses_Internet,98.41,Aktual
+Kep. Riau,2026,Penduduk_Akses_Internet,94.75,Forecast
+Kep. Riau,2027,Penduduk_Akses_Internet,97.68099999999959,Forecast
+Kep. Riau,2028,Penduduk_Akses_Internet,100.0,Forecast
+Kep. Riau,2029,Penduduk_Akses_Internet,100.0,Forecast
+Kep. Riau,2026,Penduduk_Telepon_Seluler,83.56680441408484,Forecast
+Kep. Riau,2027,Penduduk_Telepon_Seluler,84.45460918937765,Forecast
+Kep. Riau,2028,Penduduk_Telepon_Seluler,85.34241396467046,Forecast
+Kep. Riau,2029,Penduduk_Telepon_Seluler,86.23021873996328,Forecast
+Kep. Riau,2026,Penduduk_Menggunakan_Komputer,20.090000000000146,Forecast
+Kep. Riau,2027,Penduduk_Menggunakan_Komputer,20.670000000000073,Forecast
+Kep. Riau,2028,Penduduk_Menggunakan_Komputer,21.250000000000227,Forecast
+Kep. Riau,2029,Penduduk_Menggunakan_Komputer,21.830000000000155,Forecast
+Kep. Riau,2026,Rumah_Tangga_Komputer,33.95985916006408,Forecast
+Kep. Riau,2027,Rumah_Tangga_Komputer,35.45516104033301,Forecast
+Kep. Riau,2028,Rumah_Tangga_Komputer,36.95046292060195,Forecast
+Kep. Riau,2029,Rumah_Tangga_Komputer,38.44576480087089,Forecast
+Kep. Riau,2026,Rumah_Tangga_Akses_Internet,99.52609895059241,Forecast
+Kep. Riau,2027,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Kep. Riau,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Kep. Riau,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+DKI Jakarta,2022,Penduduk_Akses_Internet,84.65,Aktual
+DKI Jakarta,2022,Penduduk_Telepon_Seluler,82.27,Aktual
+DKI Jakarta,2022,Penduduk_Menggunakan_Komputer,23.52,Aktual
+DKI Jakarta,2022,Rumah_Tangga_Komputer,36.83,Aktual
+DKI Jakarta,2022,Rumah_Tangga_Akses_Internet,95.39,Aktual
+DKI Jakarta,2023,Penduduk_Akses_Internet,86.5,Aktual
+DKI Jakarta,2023,Penduduk_Telepon_Seluler,82.47,Aktual
+DKI Jakarta,2023,Penduduk_Menggunakan_Komputer,25.47,Aktual
+DKI Jakarta,2023,Rumah_Tangga_Komputer,39.15,Aktual
+DKI Jakarta,2023,Rumah_Tangga_Akses_Internet,98.08,Aktual
+DKI Jakarta,2024,Penduduk_Akses_Internet,87.84,Aktual
+DKI Jakarta,2024,Penduduk_Telepon_Seluler,83.43,Aktual
+DKI Jakarta,2024,Penduduk_Menggunakan_Komputer,23.47,Aktual
+DKI Jakarta,2024,Rumah_Tangga_Komputer,39.33,Aktual
+DKI Jakarta,2024,Rumah_Tangga_Akses_Internet,98.18,Aktual
+DKI Jakarta,2025,Penduduk_Akses_Internet,90.27,Aktual
+DKI Jakarta,2025,Penduduk_Telepon_Seluler,84.47,Aktual
+DKI Jakarta,2025,Penduduk_Menggunakan_Komputer,23.41,Aktual
+DKI Jakarta,2025,Rumah_Tangga_Komputer,38.42,Aktual
+DKI Jakarta,2025,Rumah_Tangga_Akses_Internet,98.19,Aktual
+DKI Jakarta,2026,Penduduk_Akses_Internet,91.86500000000024,Forecast
+DKI Jakarta,2027,Penduduk_Akses_Internet,93.6850000000004,Forecast
+DKI Jakarta,2028,Penduduk_Akses_Internet,95.50500000000011,Forecast
+DKI Jakarta,2029,Penduduk_Akses_Internet,97.32500000000027,Forecast
+DKI Jakarta,2026,Penduduk_Telepon_Seluler,85.15225899553766,Forecast
+DKI Jakarta,2027,Penduduk_Telepon_Seluler,85.91049169801853,Forecast
+DKI Jakarta,2028,Penduduk_Telepon_Seluler,86.6687244004994,Forecast
+DKI Jakarta,2029,Penduduk_Telepon_Seluler,87.42695710298027,Forecast
+DKI Jakarta,2026,Penduduk_Menggunakan_Komputer,23.384999999999934,Forecast
+DKI Jakarta,2027,Penduduk_Menggunakan_Komputer,23.15199999999993,Forecast
+DKI Jakarta,2028,Penduduk_Menggunakan_Komputer,22.918999999999926,Forecast
+DKI Jakarta,2029,Penduduk_Menggunakan_Komputer,22.68599999999998,Forecast
+DKI Jakarta,2026,Rumah_Tangga_Komputer,39.22180294490389,Forecast
+DKI Jakarta,2027,Rumah_Tangga_Komputer,39.68503244120989,Forecast
+DKI Jakarta,2028,Rumah_Tangga_Komputer,40.1482619375159,Forecast
+DKI Jakarta,2029,Rumah_Tangga_Komputer,40.611491433821904,Forecast
+DKI Jakarta,2026,Rumah_Tangga_Akses_Internet,99.27035305088523,Forecast
+DKI Jakarta,2027,Rumah_Tangga_Akses_Internet,100.0,Forecast
+DKI Jakarta,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+DKI Jakarta,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Jawa Barat,2022,Penduduk_Akses_Internet,71.12,Aktual
+Jawa Barat,2022,Penduduk_Telepon_Seluler,70.37,Aktual
+Jawa Barat,2022,Penduduk_Menggunakan_Komputer,13.03,Aktual
+Jawa Barat,2022,Rumah_Tangga_Komputer,18.7,Aktual
+Jawa Barat,2022,Rumah_Tangga_Akses_Internet,87.57,Aktual
+Jawa Barat,2023,Penduduk_Akses_Internet,72.54,Aktual
+Jawa Barat,2023,Penduduk_Telepon_Seluler,68.87,Aktual
+Jawa Barat,2023,Penduduk_Menggunakan_Komputer,13.31,Aktual
+Jawa Barat,2023,Rumah_Tangga_Komputer,18.85,Aktual
+Jawa Barat,2023,Rumah_Tangga_Akses_Internet,87.92,Aktual
+Jawa Barat,2024,Penduduk_Akses_Internet,76.62,Aktual
+Jawa Barat,2024,Penduduk_Telepon_Seluler,70.58,Aktual
+Jawa Barat,2024,Penduduk_Menggunakan_Komputer,14.54,Aktual
+Jawa Barat,2024,Rumah_Tangga_Komputer,18.6,Aktual
+Jawa Barat,2024,Rumah_Tangga_Akses_Internet,90.58,Aktual
+Jawa Barat,2025,Penduduk_Akses_Internet,81.19,Aktual
+Jawa Barat,2025,Penduduk_Telepon_Seluler,72.56,Aktual
+Jawa Barat,2025,Penduduk_Menggunakan_Komputer,14.54,Aktual
+Jawa Barat,2025,Rumah_Tangga_Komputer,20.96,Aktual
+Jawa Barat,2025,Rumah_Tangga_Akses_Internet,92.31,Aktual
+Jawa Barat,2026,Penduduk_Akses_Internet,83.94000000000051,Forecast
+Jawa Barat,2027,Penduduk_Akses_Internet,87.3690000000006,Forecast
+Jawa Barat,2028,Penduduk_Akses_Internet,90.79800000000068,Forecast
+Jawa Barat,2029,Penduduk_Akses_Internet,94.22700000000077,Forecast
+Jawa Barat,2026,Penduduk_Telepon_Seluler,73.08433293844554,Forecast
+Jawa Barat,2027,Penduduk_Telepon_Seluler,73.91976670981039,Forecast
+Jawa Barat,2028,Penduduk_Telepon_Seluler,74.75520048117525,Forecast
+Jawa Barat,2029,Penduduk_Telepon_Seluler,75.5906342525401,Forecast
+Jawa Barat,2026,Penduduk_Menggunakan_Komputer,15.295000000000073,Forecast
+Jawa Barat,2027,Penduduk_Menggunakan_Komputer,15.871000000000095,Forecast
+Jawa Barat,2028,Penduduk_Menggunakan_Komputer,16.447000000000116,Forecast
+Jawa Barat,2029,Penduduk_Menggunakan_Komputer,17.02300000000014,Forecast
+Jawa Barat,2026,Rumah_Tangga_Komputer,21.34766956124628,Forecast
+Jawa Barat,2027,Rumah_Tangga_Komputer,22.077643343451133,Forecast
+Jawa Barat,2028,Rumah_Tangga_Komputer,22.807617125655984,Forecast
+Jawa Barat,2029,Rumah_Tangga_Komputer,23.537590907860835,Forecast
+Jawa Barat,2026,Rumah_Tangga_Akses_Internet,93.90840702293062,Forecast
+Jawa Barat,2027,Rumah_Tangga_Akses_Internet,95.56862712592884,Forecast
+Jawa Barat,2028,Rumah_Tangga_Akses_Internet,97.22884722892705,Forecast
+Jawa Barat,2029,Rumah_Tangga_Akses_Internet,98.88906733192528,Forecast
+Jawa Tengah,2022,Penduduk_Akses_Internet,67.73,Aktual
+Jawa Tengah,2022,Penduduk_Telepon_Seluler,65.15,Aktual
+Jawa Tengah,2022,Penduduk_Menggunakan_Komputer,9.57,Aktual
+Jawa Tengah,2022,Rumah_Tangga_Komputer,14.92,Aktual
+Jawa Tengah,2022,Rumah_Tangga_Akses_Internet,88.24,Aktual
+Jawa Tengah,2023,Penduduk_Akses_Internet,70.0,Aktual
+Jawa Tengah,2023,Penduduk_Telepon_Seluler,64.74,Aktual
+Jawa Tengah,2023,Penduduk_Menggunakan_Komputer,10.29,Aktual
+Jawa Tengah,2023,Rumah_Tangga_Komputer,14.05,Aktual
+Jawa Tengah,2023,Rumah_Tangga_Akses_Internet,85.61,Aktual
+Jawa Tengah,2024,Penduduk_Akses_Internet,73.15,Aktual
+Jawa Tengah,2024,Penduduk_Telepon_Seluler,65.47,Aktual
+Jawa Tengah,2024,Penduduk_Menggunakan_Komputer,10.1,Aktual
+Jawa Tengah,2024,Rumah_Tangga_Komputer,14.82,Aktual
+Jawa Tengah,2024,Rumah_Tangga_Akses_Internet,88.89,Aktual
+Jawa Tengah,2025,Penduduk_Akses_Internet,77.22,Aktual
+Jawa Tengah,2025,Penduduk_Telepon_Seluler,67.72,Aktual
+Jawa Tengah,2025,Penduduk_Menggunakan_Komputer,11.76,Aktual
+Jawa Tengah,2025,Rumah_Tangga_Komputer,16.7,Aktual
+Jawa Tengah,2025,Rumah_Tangga_Akses_Internet,90.67,Aktual
+Jawa Tengah,2026,Penduduk_Akses_Internet,79.92999999999938,Forecast
+Jawa Tengah,2027,Penduduk_Akses_Internet,83.09199999999964,Forecast
+Jawa Tengah,2028,Penduduk_Akses_Internet,86.2539999999999,Forecast
+Jawa Tengah,2029,Penduduk_Akses_Internet,89.41599999999926,Forecast
+Jawa Tengah,2026,Penduduk_Telepon_Seluler,68.29283953787767,Forecast
+Jawa Tengah,2027,Penduduk_Telepon_Seluler,69.18144355306775,Forecast
+Jawa Tengah,2028,Penduduk_Telepon_Seluler,70.07004756825783,Forecast
+Jawa Tengah,2029,Penduduk_Telepon_Seluler,70.95865158344792,Forecast
+Jawa Tengah,2026,Penduduk_Menggunakan_Komputer,12.025000000000091,Forecast
+Jawa Tengah,2027,Penduduk_Menggunakan_Komputer,12.663000000000238,Forecast
+Jawa Tengah,2028,Penduduk_Menggunakan_Komputer,13.301000000000158,Forecast
+Jawa Tengah,2029,Penduduk_Menggunakan_Komputer,13.939000000000078,Forecast
+Jawa Tengah,2026,Rumah_Tangga_Komputer,17.04438072734481,Forecast
+Jawa Tengah,2027,Rumah_Tangga_Komputer,17.687821952580727,Forecast
+Jawa Tengah,2028,Rumah_Tangga_Komputer,18.331263177816645,Forecast
+Jawa Tengah,2029,Rumah_Tangga_Komputer,18.97470440305256,Forecast
+Jawa Tengah,2026,Rumah_Tangga_Akses_Internet,91.39693856772253,Forecast
+Jawa Tengah,2027,Rumah_Tangga_Akses_Internet,92.40877712229509,Forecast
+Jawa Tengah,2028,Rumah_Tangga_Akses_Internet,93.42061567686764,Forecast
+Jawa Tengah,2029,Rumah_Tangga_Akses_Internet,94.4324542314402,Forecast
+DI Yogyakarta,2022,Penduduk_Akses_Internet,75.38,Aktual
+DI Yogyakarta,2022,Penduduk_Telepon_Seluler,70.37,Aktual
+DI Yogyakarta,2022,Penduduk_Menggunakan_Komputer,18.69,Aktual
+DI Yogyakarta,2022,Rumah_Tangga_Komputer,31.15,Aktual
+DI Yogyakarta,2022,Rumah_Tangga_Akses_Internet,89.03,Aktual
+DI Yogyakarta,2023,Penduduk_Akses_Internet,78.61,Aktual
+DI Yogyakarta,2023,Penduduk_Telepon_Seluler,71.37,Aktual
+DI Yogyakarta,2023,Penduduk_Menggunakan_Komputer,19.37,Aktual
+DI Yogyakarta,2023,Rumah_Tangga_Komputer,30.56,Aktual
+DI Yogyakarta,2023,Rumah_Tangga_Akses_Internet,90.18,Aktual
+DI Yogyakarta,2024,Penduduk_Akses_Internet,80.1,Aktual
+DI Yogyakarta,2024,Penduduk_Telepon_Seluler,72.17,Aktual
+DI Yogyakarta,2024,Penduduk_Menggunakan_Komputer,19.91,Aktual
+DI Yogyakarta,2024,Rumah_Tangga_Komputer,31.55,Aktual
+DI Yogyakarta,2024,Rumah_Tangga_Akses_Internet,89.5,Aktual
+DI Yogyakarta,2025,Penduduk_Akses_Internet,81.89,Aktual
+DI Yogyakarta,2025,Penduduk_Telepon_Seluler,72.86,Aktual
+DI Yogyakarta,2025,Penduduk_Menggunakan_Komputer,22.16,Aktual
+DI Yogyakarta,2025,Rumah_Tangga_Komputer,33.52,Aktual
+DI Yogyakarta,2025,Rumah_Tangga_Akses_Internet,91.58,Aktual
+DI Yogyakarta,2026,Penduduk_Akses_Internet,84.25,Forecast
+DI Yogyakarta,2027,Penduduk_Akses_Internet,86.35199999999986,Forecast
+DI Yogyakarta,2028,Penduduk_Akses_Internet,88.45399999999972,Forecast
+DI Yogyakarta,2029,Penduduk_Akses_Internet,90.55599999999959,Forecast
+DI Yogyakarta,2026,Penduduk_Telepon_Seluler,73.71660545273397,Forecast
+DI Yogyakarta,2027,Penduduk_Telepon_Seluler,74.54039653506092,Forecast
+DI Yogyakarta,2028,Penduduk_Telepon_Seluler,75.36418761738788,Forecast
+DI Yogyakarta,2029,Penduduk_Telepon_Seluler,76.18797869971485,Forecast
+DI Yogyakarta,2026,Penduduk_Menggunakan_Komputer,22.769999999999527,Forecast
+DI Yogyakarta,2027,Penduduk_Menggunakan_Komputer,23.86499999999978,Forecast
+DI Yogyakarta,2028,Penduduk_Menggunakan_Komputer,24.95999999999958,Forecast
+DI Yogyakarta,2029,Penduduk_Menggunakan_Komputer,26.054999999999836,Forecast
+DI Yogyakarta,2026,Rumah_Tangga_Komputer,34.08338540897572,Forecast
+DI Yogyakarta,2027,Rumah_Tangga_Komputer,34.92200504639407,Forecast
+DI Yogyakarta,2028,Rumah_Tangga_Komputer,35.76062468381242,Forecast
+DI Yogyakarta,2029,Rumah_Tangga_Komputer,36.59924432123077,Forecast
+DI Yogyakarta,2026,Rumah_Tangga_Akses_Internet,92.11595271197416,Forecast
+DI Yogyakarta,2027,Rumah_Tangga_Akses_Internet,92.89457933814057,Forecast
+DI Yogyakarta,2028,Rumah_Tangga_Akses_Internet,93.67320596430699,Forecast
+DI Yogyakarta,2029,Rumah_Tangga_Akses_Internet,94.4518325904734,Forecast
+Jawa Timur,2022,Penduduk_Akses_Internet,64.28,Aktual
+Jawa Timur,2022,Penduduk_Telepon_Seluler,65.22,Aktual
+Jawa Timur,2022,Penduduk_Menggunakan_Komputer,11.14,Aktual
+Jawa Timur,2022,Rumah_Tangga_Komputer,16.42,Aktual
+Jawa Timur,2022,Rumah_Tangga_Akses_Internet,85.11,Aktual
+Jawa Timur,2023,Penduduk_Akses_Internet,66.17,Aktual
+Jawa Timur,2023,Penduduk_Telepon_Seluler,64.6,Aktual
+Jawa Timur,2023,Penduduk_Menggunakan_Komputer,11.56,Aktual
+Jawa Timur,2023,Rumah_Tangga_Komputer,16.05,Aktual
+Jawa Timur,2023,Rumah_Tangga_Akses_Internet,84.28,Aktual
+Jawa Timur,2024,Penduduk_Akses_Internet,69.36,Aktual
+Jawa Timur,2024,Penduduk_Telepon_Seluler,66.23,Aktual
+Jawa Timur,2024,Penduduk_Menggunakan_Komputer,10.92,Aktual
+Jawa Timur,2024,Rumah_Tangga_Komputer,16.7,Aktual
+Jawa Timur,2024,Rumah_Tangga_Akses_Internet,86.9,Aktual
+Jawa Timur,2025,Penduduk_Akses_Internet,74.09,Aktual
+Jawa Timur,2025,Penduduk_Telepon_Seluler,68.27,Aktual
+Jawa Timur,2025,Penduduk_Menggunakan_Komputer,11.61,Aktual
+Jawa Timur,2025,Rumah_Tangga_Komputer,17.36,Aktual
+Jawa Timur,2025,Rumah_Tangga_Akses_Internet,88.89,Aktual
+Jawa Timur,2026,Penduduk_Akses_Internet,76.63000000000011,Forecast
+Jawa Timur,2027,Penduduk_Akses_Internet,79.89199999999983,Forecast
+Jawa Timur,2028,Penduduk_Akses_Internet,83.15400000000045,Forecast
+Jawa Timur,2029,Penduduk_Akses_Internet,86.41600000000017,Forecast
+Jawa Timur,2026,Penduduk_Telepon_Seluler,69.10983408857204,Forecast
+Jawa Timur,2027,Penduduk_Telepon_Seluler,70.19954939809277,Forecast
+Jawa Timur,2028,Penduduk_Telepon_Seluler,71.28926470761351,Forecast
+Jawa Timur,2029,Penduduk_Telepon_Seluler,72.37898001713425,Forecast
+Jawa Timur,2026,Penduduk_Menggunakan_Komputer,11.5,Forecast
+Jawa Timur,2027,Penduduk_Menggunakan_Komputer,11.576999999999998,Forecast
+Jawa Timur,2028,Penduduk_Menggunakan_Komputer,11.653999999999996,Forecast
+Jawa Timur,2029,Penduduk_Menggunakan_Komputer,11.730999999999995,Forecast
+Jawa Timur,2026,Rumah_Tangga_Komputer,17.619199387507358,Forecast
+Jawa Timur,2027,Rumah_Tangga_Komputer,17.96632786361587,Forecast
+Jawa Timur,2028,Rumah_Tangga_Komputer,18.313456339724382,Forecast
+Jawa Timur,2029,Rumah_Tangga_Komputer,18.660584815832895,Forecast
+Jawa Timur,2026,Rumah_Tangga_Akses_Internet,90.0651546391177,Forecast
+Jawa Timur,2027,Rumah_Tangga_Akses_Internet,91.44202886417791,Forecast
+Jawa Timur,2028,Rumah_Tangga_Akses_Internet,92.81890308923813,Forecast
+Jawa Timur,2029,Rumah_Tangga_Akses_Internet,94.19577731429835,Forecast
+Banten,2022,Penduduk_Akses_Internet,70.73,Aktual
+Banten,2022,Penduduk_Telepon_Seluler,70.25,Aktual
+Banten,2022,Penduduk_Menggunakan_Komputer,12.5,Aktual
+Banten,2022,Rumah_Tangga_Komputer,19.75,Aktual
+Banten,2022,Rumah_Tangga_Akses_Internet,91.11,Aktual
+Banten,2023,Penduduk_Akses_Internet,71.73,Aktual
+Banten,2023,Penduduk_Telepon_Seluler,69.87,Aktual
+Banten,2023,Penduduk_Menggunakan_Komputer,13.83,Aktual
+Banten,2023,Rumah_Tangga_Komputer,20.71,Aktual
+Banten,2023,Rumah_Tangga_Akses_Internet,91.18,Aktual
+Banten,2024,Penduduk_Akses_Internet,75.17,Aktual
+Banten,2024,Penduduk_Telepon_Seluler,71.32,Aktual
+Banten,2024,Penduduk_Menggunakan_Komputer,13.72,Aktual
+Banten,2024,Rumah_Tangga_Komputer,20.89,Aktual
+Banten,2024,Rumah_Tangga_Akses_Internet,93.02,Aktual
+Banten,2025,Penduduk_Akses_Internet,80.83,Aktual
+Banten,2025,Penduduk_Telepon_Seluler,73.59,Aktual
+Banten,2025,Penduduk_Menggunakan_Komputer,14.88,Aktual
+Banten,2025,Rumah_Tangga_Komputer,23.23,Aktual
+Banten,2025,Rumah_Tangga_Akses_Internet,95.34,Aktual
+Banten,2026,Penduduk_Akses_Internet,83.04999999999927,Forecast
+Banten,2027,Penduduk_Akses_Internet,86.42399999999907,Forecast
+Banten,2028,Penduduk_Akses_Internet,89.79799999999977,Forecast
+Banten,2029,Penduduk_Akses_Internet,93.17199999999957,Forecast
+Banten,2026,Penduduk_Telepon_Seluler,74.48749584798061,Forecast
+Banten,2027,Penduduk_Telepon_Seluler,75.65836040402107,Forecast
+Banten,2028,Penduduk_Telepon_Seluler,76.82922496006154,Forecast
+Banten,2029,Penduduk_Telepon_Seluler,78.000089516102,Forecast
+Banten,2026,Penduduk_Menggunakan_Komputer,15.490000000000236,Forecast
+Banten,2027,Penduduk_Menggunakan_Komputer,16.19300000000021,Forecast
+Banten,2028,Penduduk_Menggunakan_Komputer,16.896000000000186,Forecast
+Banten,2029,Penduduk_Menggunakan_Komputer,17.59900000000016,Forecast
+Banten,2026,Rumah_Tangga_Komputer,24.11055732471949,Forecast
+Banten,2027,Rumah_Tangga_Komputer,25.236332460560938,Forecast
+Banten,2028,Rumah_Tangga_Komputer,26.36210759640238,Forecast
+Banten,2029,Rumah_Tangga_Komputer,27.487882732243826,Forecast
+Banten,2026,Rumah_Tangga_Akses_Internet,96.58758473068195,Forecast
+Banten,2027,Rumah_Tangga_Akses_Internet,98.0544408638668,Forecast
+Banten,2028,Rumah_Tangga_Akses_Internet,99.52129699705165,Forecast
+Banten,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Bali,2022,Penduduk_Akses_Internet,70.59,Aktual
+Bali,2022,Penduduk_Telepon_Seluler,72.82,Aktual
+Bali,2022,Penduduk_Menggunakan_Komputer,15.94,Aktual
+Bali,2022,Rumah_Tangga_Komputer,27.72,Aktual
+Bali,2022,Rumah_Tangga_Akses_Internet,91.21,Aktual
+Bali,2023,Penduduk_Akses_Internet,73.34,Aktual
+Bali,2023,Penduduk_Telepon_Seluler,73.2,Aktual
+Bali,2023,Penduduk_Menggunakan_Komputer,15.69,Aktual
+Bali,2023,Rumah_Tangga_Komputer,24.34,Aktual
+Bali,2023,Rumah_Tangga_Akses_Internet,87.15,Aktual
+Bali,2024,Penduduk_Akses_Internet,77.56,Aktual
+Bali,2024,Penduduk_Telepon_Seluler,75.27,Aktual
+Bali,2024,Penduduk_Menggunakan_Komputer,17.25,Aktual
+Bali,2024,Rumah_Tangga_Komputer,26.63,Aktual
+Bali,2024,Rumah_Tangga_Akses_Internet,92.16,Aktual
+Bali,2025,Penduduk_Akses_Internet,80.88,Aktual
+Bali,2025,Penduduk_Telepon_Seluler,77.45,Aktual
+Bali,2025,Penduduk_Menggunakan_Komputer,16.78,Aktual
+Bali,2025,Rumah_Tangga_Komputer,27.14,Aktual
+Bali,2025,Rumah_Tangga_Akses_Internet,94.21,Aktual
+Bali,2026,Penduduk_Akses_Internet,84.36499999999978,Forecast
+Bali,2027,Penduduk_Akses_Internet,87.8739999999998,Forecast
+Bali,2028,Penduduk_Akses_Internet,91.38299999999981,Forecast
+Bali,2029,Penduduk_Akses_Internet,94.89199999999983,Forecast
+Bali,2026,Penduduk_Telepon_Seluler,78.88981167776132,Forecast
+Bali,2027,Penduduk_Telepon_Seluler,80.48877758113144,Forecast
+Bali,2028,Penduduk_Telepon_Seluler,82.08774348450159,Forecast
+Bali,2029,Penduduk_Telepon_Seluler,83.68670938787172,Forecast
+Bali,2026,Penduduk_Menggunakan_Komputer,17.434999999999945,Forecast
+Bali,2027,Penduduk_Menggunakan_Komputer,17.84299999999996,Forecast
+Bali,2028,Penduduk_Menggunakan_Komputer,18.250999999999976,Forecast
+Bali,2029,Penduduk_Menggunakan_Komputer,18.658999999999878,Forecast
+Bali,2026,Rumah_Tangga_Komputer,26.9174369068804,Forecast
+Bali,2027,Rumah_Tangga_Komputer,26.919063122394814,Forecast
+Bali,2028,Rumah_Tangga_Komputer,26.92068933790923,Forecast
+Bali,2029,Rumah_Tangga_Komputer,26.922315553423644,Forecast
+Bali,2026,Rumah_Tangga_Akses_Internet,95.17991563342191,Forecast
+Bali,2027,Rumah_Tangga_Akses_Internet,96.49221958958715,Forecast
+Bali,2028,Rumah_Tangga_Akses_Internet,97.80452354575237,Forecast
+Bali,2029,Rumah_Tangga_Akses_Internet,99.1168275019176,Forecast
+Nusa Tenggara Barat,2022,Penduduk_Akses_Internet,59.39,Aktual
+Nusa Tenggara Barat,2022,Penduduk_Telepon_Seluler,61.11,Aktual
+Nusa Tenggara Barat,2022,Penduduk_Menggunakan_Komputer,9.46,Aktual
+Nusa Tenggara Barat,2022,Rumah_Tangga_Komputer,11.06,Aktual
+Nusa Tenggara Barat,2022,Rumah_Tangga_Akses_Internet,79.77,Aktual
+Nusa Tenggara Barat,2023,Penduduk_Akses_Internet,63.2,Aktual
+Nusa Tenggara Barat,2023,Penduduk_Telepon_Seluler,61.48,Aktual
+Nusa Tenggara Barat,2023,Penduduk_Menggunakan_Komputer,9.57,Aktual
+Nusa Tenggara Barat,2023,Rumah_Tangga_Komputer,11.09,Aktual
+Nusa Tenggara Barat,2023,Rumah_Tangga_Akses_Internet,81.79,Aktual
+Nusa Tenggara Barat,2024,Penduduk_Akses_Internet,68.52,Aktual
+Nusa Tenggara Barat,2024,Penduduk_Telepon_Seluler,63.38,Aktual
+Nusa Tenggara Barat,2024,Penduduk_Menggunakan_Komputer,10.29,Aktual
+Nusa Tenggara Barat,2024,Rumah_Tangga_Komputer,11.73,Aktual
+Nusa Tenggara Barat,2024,Rumah_Tangga_Akses_Internet,86.54,Aktual
+Nusa Tenggara Barat,2025,Penduduk_Akses_Internet,73.59,Aktual
+Nusa Tenggara Barat,2025,Penduduk_Telepon_Seluler,66.44,Aktual
+Nusa Tenggara Barat,2025,Penduduk_Menggunakan_Komputer,10.8,Aktual
+Nusa Tenggara Barat,2025,Rumah_Tangga_Komputer,12.87,Aktual
+Nusa Tenggara Barat,2025,Rumah_Tangga_Akses_Internet,88.84,Aktual
+Nusa Tenggara Barat,2026,Penduduk_Akses_Internet,78.15500000000065,Forecast
+Nusa Tenggara Barat,2027,Penduduk_Akses_Internet,82.94700000000012,Forecast
+Nusa Tenggara Barat,2028,Penduduk_Akses_Internet,87.73899999999958,Forecast
+Nusa Tenggara Barat,2029,Penduduk_Akses_Internet,92.53099999999904,Forecast
+Nusa Tenggara Barat,2026,Penduduk_Telepon_Seluler,67.965990270571,Forecast
+Nusa Tenggara Barat,2027,Penduduk_Telepon_Seluler,69.78892160941642,Forecast
+Nusa Tenggara Barat,2028,Penduduk_Telepon_Seluler,71.61185294826183,Forecast
+Nusa Tenggara Barat,2029,Penduduk_Telepon_Seluler,73.43478428710725,Forecast
+Nusa Tenggara Barat,2026,Penduduk_Menggunakan_Komputer,11.214999999999918,Forecast
+Nusa Tenggara Barat,2027,Penduduk_Menggunakan_Komputer,11.688999999999965,Forecast
+Nusa Tenggara Barat,2028,Penduduk_Menggunakan_Komputer,12.162999999999897,Forecast
+Nusa Tenggara Barat,2029,Penduduk_Menggunakan_Komputer,12.636999999999944,Forecast
+Nusa Tenggara Barat,2026,Rumah_Tangga_Komputer,13.36783812888603,Forecast
+Nusa Tenggara Barat,2027,Rumah_Tangga_Komputer,13.989472220222432,Forecast
+Nusa Tenggara Barat,2028,Rumah_Tangga_Komputer,14.611106311558832,Forecast
+Nusa Tenggara Barat,2029,Rumah_Tangga_Komputer,15.232740402895232,Forecast
+Nusa Tenggara Barat,2026,Rumah_Tangga_Akses_Internet,92.08503766959232,Forecast
+Nusa Tenggara Barat,2027,Rumah_Tangga_Akses_Internet,95.2083992553392,Forecast
+Nusa Tenggara Barat,2028,Rumah_Tangga_Akses_Internet,98.33176084108608,Forecast
+Nusa Tenggara Barat,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Nusa Tenggara Timur,2022,Penduduk_Akses_Internet,47.39,Aktual
+Nusa Tenggara Timur,2022,Penduduk_Telepon_Seluler,52.73,Aktual
+Nusa Tenggara Timur,2022,Penduduk_Menggunakan_Komputer,11.7,Aktual
+Nusa Tenggara Timur,2022,Rumah_Tangga_Komputer,13.92,Aktual
+Nusa Tenggara Timur,2022,Rumah_Tangga_Akses_Internet,74.23,Aktual
+Nusa Tenggara Timur,2023,Penduduk_Akses_Internet,51.06,Aktual
+Nusa Tenggara Timur,2023,Penduduk_Telepon_Seluler,51.36,Aktual
+Nusa Tenggara Timur,2023,Penduduk_Menggunakan_Komputer,11.31,Aktual
+Nusa Tenggara Timur,2023,Rumah_Tangga_Komputer,13.65,Aktual
+Nusa Tenggara Timur,2023,Rumah_Tangga_Akses_Internet,78.88,Aktual
+Nusa Tenggara Timur,2024,Penduduk_Akses_Internet,54.84,Aktual
+Nusa Tenggara Timur,2024,Penduduk_Telepon_Seluler,53.96,Aktual
+Nusa Tenggara Timur,2024,Penduduk_Menggunakan_Komputer,11.13,Aktual
+Nusa Tenggara Timur,2024,Rumah_Tangga_Komputer,13.7,Aktual
+Nusa Tenggara Timur,2024,Rumah_Tangga_Akses_Internet,82.45,Aktual
+Nusa Tenggara Timur,2025,Penduduk_Akses_Internet,62.91,Aktual
+Nusa Tenggara Timur,2025,Penduduk_Telepon_Seluler,55.97,Aktual
+Nusa Tenggara Timur,2025,Penduduk_Menggunakan_Komputer,11.75,Aktual
+Nusa Tenggara Timur,2025,Rumah_Tangga_Komputer,15.54,Aktual
+Nusa Tenggara Timur,2025,Rumah_Tangga_Akses_Internet,87.29,Aktual
+Nusa Tenggara Timur,2026,Penduduk_Akses_Internet,66.63500000000022,Forecast
+Nusa Tenggara Timur,2027,Penduduk_Akses_Internet,71.66899999999987,Forecast
+Nusa Tenggara Timur,2028,Penduduk_Akses_Internet,76.70299999999952,Forecast
+Nusa Tenggara Timur,2029,Penduduk_Akses_Internet,81.73699999999917,Forecast
+Nusa Tenggara Timur,2026,Penduduk_Telepon_Seluler,56.93239155914383,Forecast
+Nusa Tenggara Timur,2027,Penduduk_Telepon_Seluler,58.14636014531001,Forecast
+Nusa Tenggara Timur,2028,Penduduk_Telepon_Seluler,59.36032873147619,Forecast
+Nusa Tenggara Timur,2029,Penduduk_Telepon_Seluler,60.57429731764237,Forecast
+Nusa Tenggara Timur,2026,Penduduk_Menggunakan_Komputer,11.465000000000003,Forecast
+Nusa Tenggara Timur,2027,Penduduk_Menggunakan_Komputer,11.462000000000003,Forecast
+Nusa Tenggara Timur,2028,Penduduk_Menggunakan_Komputer,11.459000000000003,Forecast
+Nusa Tenggara Timur,2029,Penduduk_Menggunakan_Komputer,11.456000000000003,Forecast
+Nusa Tenggara Timur,2026,Rumah_Tangga_Komputer,15.798538642997928,Forecast
+Nusa Tenggara Timur,2027,Rumah_Tangga_Komputer,16.342232000538917,Forecast
+Nusa Tenggara Timur,2028,Rumah_Tangga_Komputer,16.885925358079906,Forecast
+Nusa Tenggara Timur,2029,Rumah_Tangga_Komputer,17.429618715620897,Forecast
+Nusa Tenggara Timur,2026,Rumah_Tangga_Akses_Internet,91.51110695653085,Forecast
+Nusa Tenggara Timur,2027,Rumah_Tangga_Akses_Internet,95.82370457151038,Forecast
+Nusa Tenggara Timur,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Nusa Tenggara Timur,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Kalimantan Barat,2022,Penduduk_Akses_Internet,62.08,Aktual
+Kalimantan Barat,2022,Penduduk_Telepon_Seluler,64.69,Aktual
+Kalimantan Barat,2022,Penduduk_Menggunakan_Komputer,9.05,Aktual
+Kalimantan Barat,2022,Rumah_Tangga_Komputer,14.92,Aktual
+Kalimantan Barat,2022,Rumah_Tangga_Akses_Internet,84.74,Aktual
+Kalimantan Barat,2023,Penduduk_Akses_Internet,66.39,Aktual
+Kalimantan Barat,2023,Penduduk_Telepon_Seluler,64.82,Aktual
+Kalimantan Barat,2023,Penduduk_Menggunakan_Komputer,8.62,Aktual
+Kalimantan Barat,2023,Rumah_Tangga_Komputer,15.11,Aktual
+Kalimantan Barat,2023,Rumah_Tangga_Akses_Internet,88.45,Aktual
+Kalimantan Barat,2024,Penduduk_Akses_Internet,71.57,Aktual
+Kalimantan Barat,2024,Penduduk_Telepon_Seluler,66.97,Aktual
+Kalimantan Barat,2024,Penduduk_Menggunakan_Komputer,8.89,Aktual
+Kalimantan Barat,2024,Rumah_Tangga_Komputer,16.51,Aktual
+Kalimantan Barat,2024,Rumah_Tangga_Akses_Internet,92.65,Aktual
+Kalimantan Barat,2025,Penduduk_Akses_Internet,75.88,Aktual
+Kalimantan Barat,2025,Penduduk_Telepon_Seluler,68.94,Aktual
+Kalimantan Barat,2025,Penduduk_Menggunakan_Komputer,9.28,Aktual
+Kalimantan Barat,2025,Rumah_Tangga_Komputer,17.13,Aktual
+Kalimantan Barat,2025,Rumah_Tangga_Akses_Internet,94.14,Aktual
+Kalimantan Barat,2026,Penduduk_Akses_Internet,80.62499999999818,Forecast
+Kalimantan Barat,2027,Penduduk_Akses_Internet,85.28299999999945,Forecast
+Kalimantan Barat,2028,Penduduk_Akses_Internet,89.9409999999989,Forecast
+Kalimantan Barat,2029,Penduduk_Akses_Internet,94.59899999999834,Forecast
+Kalimantan Barat,2026,Penduduk_Telepon_Seluler,70.27903460995034,Forecast
+Kalimantan Barat,2027,Penduduk_Telepon_Seluler,71.7634021434127,Forecast
+Kalimantan Barat,2028,Penduduk_Telepon_Seluler,73.24776967687505,Forecast
+Kalimantan Barat,2029,Penduduk_Telepon_Seluler,74.73213721033741,Forecast
+Kalimantan Barat,2026,Penduduk_Menggunakan_Komputer,9.200000000000017,Forecast
+Kalimantan Barat,2027,Penduduk_Menggunakan_Komputer,9.29600000000002,Forecast
+Kalimantan Barat,2028,Penduduk_Menggunakan_Komputer,9.392000000000024,Forecast
+Kalimantan Barat,2029,Penduduk_Menggunakan_Komputer,9.488000000000028,Forecast
+Kalimantan Barat,2026,Rumah_Tangga_Komputer,17.91965470754553,Forecast
+Kalimantan Barat,2027,Rumah_Tangga_Komputer,18.69947357688365,Forecast
+Kalimantan Barat,2028,Rumah_Tangga_Komputer,19.479292446221777,Forecast
+Kalimantan Barat,2029,Rumah_Tangga_Komputer,20.2591113155599,Forecast
+Kalimantan Barat,2026,Rumah_Tangga_Akses_Internet,97.64915325149475,Forecast
+Kalimantan Barat,2027,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Kalimantan Barat,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Kalimantan Barat,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Kalimantan Tengah,2022,Penduduk_Akses_Internet,65.79,Aktual
+Kalimantan Tengah,2022,Penduduk_Telepon_Seluler,72.83,Aktual
+Kalimantan Tengah,2022,Penduduk_Menggunakan_Komputer,10.68,Aktual
+Kalimantan Tengah,2022,Rumah_Tangga_Komputer,16.7,Aktual
+Kalimantan Tengah,2022,Rumah_Tangga_Akses_Internet,84.76,Aktual
+Kalimantan Tengah,2023,Penduduk_Akses_Internet,71.34,Aktual
+Kalimantan Tengah,2023,Penduduk_Telepon_Seluler,73.11,Aktual
+Kalimantan Tengah,2023,Penduduk_Menggunakan_Komputer,11.05,Aktual
+Kalimantan Tengah,2023,Rumah_Tangga_Komputer,19.12,Aktual
+Kalimantan Tengah,2023,Rumah_Tangga_Akses_Internet,88.27,Aktual
+Kalimantan Tengah,2024,Penduduk_Akses_Internet,75.23,Aktual
+Kalimantan Tengah,2024,Penduduk_Telepon_Seluler,75.71,Aktual
+Kalimantan Tengah,2024,Penduduk_Menggunakan_Komputer,10.8,Aktual
+Kalimantan Tengah,2024,Rumah_Tangga_Komputer,19.43,Aktual
+Kalimantan Tengah,2024,Rumah_Tangga_Akses_Internet,92.13,Aktual
+Kalimantan Tengah,2025,Penduduk_Akses_Internet,80.6,Aktual
+Kalimantan Tengah,2025,Penduduk_Telepon_Seluler,77.5,Aktual
+Kalimantan Tengah,2025,Penduduk_Menggunakan_Komputer,11.35,Aktual
+Kalimantan Tengah,2025,Rumah_Tangga_Komputer,20.35,Aktual
+Kalimantan Tengah,2025,Rumah_Tangga_Akses_Internet,93.98,Aktual
+Kalimantan Tengah,2026,Penduduk_Akses_Internet,85.31999999999971,Forecast
+Kalimantan Tengah,2027,Penduduk_Akses_Internet,90.15200000000004,Forecast
+Kalimantan Tengah,2028,Penduduk_Akses_Internet,94.98400000000038,Forecast
+Kalimantan Tengah,2029,Penduduk_Akses_Internet,99.81600000000071,Forecast
+Kalimantan Tengah,2026,Penduduk_Telepon_Seluler,79.05679522572233,Forecast
+Kalimantan Tengah,2027,Penduduk_Telepon_Seluler,80.69354914857752,Forecast
+Kalimantan Tengah,2028,Penduduk_Telepon_Seluler,82.33030307143271,Forecast
+Kalimantan Tengah,2029,Penduduk_Telepon_Seluler,83.9670569942879,Forecast
+Kalimantan Tengah,2026,Penduduk_Menggunakan_Komputer,11.410000000000025,Forecast
+Kalimantan Tengah,2027,Penduduk_Menggunakan_Komputer,11.586000000000013,Forecast
+Kalimantan Tengah,2028,Penduduk_Menggunakan_Komputer,11.762000000000057,Forecast
+Kalimantan Tengah,2029,Penduduk_Menggunakan_Komputer,11.938000000000045,Forecast
+Kalimantan Tengah,2026,Rumah_Tangga_Komputer,21.58529987761932,Forecast
+Kalimantan Tengah,2027,Rumah_Tangga_Komputer,22.729618193081503,Forecast
+Kalimantan Tengah,2028,Rumah_Tangga_Komputer,23.873936508543682,Forecast
+Kalimantan Tengah,2029,Rumah_Tangga_Komputer,25.018254824005865,Forecast
+Kalimantan Tengah,2026,Rumah_Tangga_Akses_Internet,97.33276970875136,Forecast
+Kalimantan Tengah,2027,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Kalimantan Tengah,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Kalimantan Tengah,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Kalimantan Selatan,2022,Penduduk_Akses_Internet,70.26,Aktual
+Kalimantan Selatan,2022,Penduduk_Telepon_Seluler,70.51,Aktual
+Kalimantan Selatan,2022,Penduduk_Menggunakan_Komputer,11.36,Aktual
+Kalimantan Selatan,2022,Rumah_Tangga_Komputer,18.19,Aktual
+Kalimantan Selatan,2022,Rumah_Tangga_Akses_Internet,87.21,Aktual
+Kalimantan Selatan,2023,Penduduk_Akses_Internet,72.13,Aktual
+Kalimantan Selatan,2023,Penduduk_Telepon_Seluler,68.98,Aktual
+Kalimantan Selatan,2023,Penduduk_Menggunakan_Komputer,11.8,Aktual
+Kalimantan Selatan,2023,Rumah_Tangga_Komputer,19.12,Aktual
+Kalimantan Selatan,2023,Rumah_Tangga_Akses_Internet,88.45,Aktual
+Kalimantan Selatan,2024,Penduduk_Akses_Internet,74.82,Aktual
+Kalimantan Selatan,2024,Penduduk_Telepon_Seluler,70.93,Aktual
+Kalimantan Selatan,2024,Penduduk_Menggunakan_Komputer,11.22,Aktual
+Kalimantan Selatan,2024,Rumah_Tangga_Komputer,18.51,Aktual
+Kalimantan Selatan,2024,Rumah_Tangga_Akses_Internet,89.22,Aktual
+Kalimantan Selatan,2025,Penduduk_Akses_Internet,79.05,Aktual
+Kalimantan Selatan,2025,Penduduk_Telepon_Seluler,72.69,Aktual
+Kalimantan Selatan,2025,Penduduk_Menggunakan_Komputer,11.99,Aktual
+Kalimantan Selatan,2025,Rumah_Tangga_Komputer,19.2,Aktual
+Kalimantan Selatan,2025,Rumah_Tangga_Akses_Internet,90.39,Aktual
+Kalimantan Selatan,2026,Penduduk_Akses_Internet,81.32999999999993,Forecast
+Kalimantan Selatan,2027,Penduduk_Akses_Internet,84.23599999999988,Forecast
+Kalimantan Selatan,2028,Penduduk_Akses_Internet,87.14199999999983,Forecast
+Kalimantan Selatan,2029,Penduduk_Akses_Internet,90.04799999999977,Forecast
+Kalimantan Selatan,2026,Penduduk_Telepon_Seluler,73.2651465539413,Forecast
+Kalimantan Selatan,2027,Penduduk_Telepon_Seluler,74.1079808290406,Forecast
+Kalimantan Selatan,2028,Penduduk_Telepon_Seluler,74.95081510413989,Forecast
+Kalimantan Selatan,2029,Penduduk_Telepon_Seluler,75.79364937923918,Forecast
+Kalimantan Selatan,2026,Penduduk_Menggunakan_Komputer,11.919999999999987,Forecast
+Kalimantan Selatan,2027,Penduduk_Menggunakan_Komputer,12.05099999999996,Forecast
+Kalimantan Selatan,2028,Penduduk_Menggunakan_Komputer,12.181999999999988,Forecast
+Kalimantan Selatan,2029,Penduduk_Menggunakan_Komputer,12.31299999999996,Forecast
+Kalimantan Selatan,2026,Rumah_Tangga_Komputer,19.423746956305173,Forecast
+Kalimantan Selatan,2027,Rumah_Tangga_Komputer,19.704304424507317,Forecast
+Kalimantan Selatan,2028,Rumah_Tangga_Komputer,19.984861892709464,Forecast
+Kalimantan Selatan,2029,Rumah_Tangga_Komputer,20.265419360911608,Forecast
+Kalimantan Selatan,2026,Rumah_Tangga_Akses_Internet,91.41505667831903,Forecast
+Kalimantan Selatan,2027,Rumah_Tangga_Akses_Internet,92.45791969816204,Forecast
+Kalimantan Selatan,2028,Rumah_Tangga_Akses_Internet,93.50078271800506,Forecast
+Kalimantan Selatan,2029,Rumah_Tangga_Akses_Internet,94.54364573784807,Forecast
+Kalimantan Timur,2022,Penduduk_Akses_Internet,80.56,Aktual
+Kalimantan Timur,2022,Penduduk_Telepon_Seluler,82.37,Aktual
+Kalimantan Timur,2022,Penduduk_Menggunakan_Komputer,16.26,Aktual
+Kalimantan Timur,2022,Rumah_Tangga_Komputer,28.91,Aktual
+Kalimantan Timur,2022,Rumah_Tangga_Akses_Internet,93.06,Aktual
+Kalimantan Timur,2023,Penduduk_Akses_Internet,80.46,Aktual
+Kalimantan Timur,2023,Penduduk_Telepon_Seluler,81.75,Aktual
+Kalimantan Timur,2023,Penduduk_Menggunakan_Komputer,15.77,Aktual
+Kalimantan Timur,2023,Rumah_Tangga_Komputer,29.59,Aktual
+Kalimantan Timur,2023,Rumah_Tangga_Akses_Internet,92.98,Aktual
+Kalimantan Timur,2024,Penduduk_Akses_Internet,84.44,Aktual
+Kalimantan Timur,2024,Penduduk_Telepon_Seluler,83.1,Aktual
+Kalimantan Timur,2024,Penduduk_Menggunakan_Komputer,15.48,Aktual
+Kalimantan Timur,2024,Rumah_Tangga_Komputer,30.52,Aktual
+Kalimantan Timur,2024,Rumah_Tangga_Akses_Internet,95.45,Aktual
+Kalimantan Timur,2025,Penduduk_Akses_Internet,85.83,Aktual
+Kalimantan Timur,2025,Penduduk_Telepon_Seluler,84.04,Aktual
+Kalimantan Timur,2025,Penduduk_Menggunakan_Komputer,16.74,Aktual
+Kalimantan Timur,2025,Rumah_Tangga_Komputer,30.63,Aktual
+Kalimantan Timur,2025,Rumah_Tangga_Akses_Internet,96.07,Aktual
+Kalimantan Timur,2026,Penduduk_Akses_Internet,87.76999999999953,Forecast
+Kalimantan Timur,2027,Penduduk_Akses_Internet,89.74899999999934,Forecast
+Kalimantan Timur,2028,Penduduk_Akses_Internet,91.72799999999961,Forecast
+Kalimantan Timur,2029,Penduduk_Akses_Internet,93.70699999999943,Forecast
+Kalimantan Timur,2026,Penduduk_Telepon_Seluler,84.55565711766727,Forecast
+Kalimantan Timur,2027,Penduduk_Telepon_Seluler,85.17925435077316,Forecast
+Kalimantan Timur,2028,Penduduk_Telepon_Seluler,85.80285158387906,Forecast
+Kalimantan Timur,2029,Penduduk_Telepon_Seluler,86.42644881698496,Forecast
+Kalimantan Timur,2026,Penduduk_Menggunakan_Komputer,16.349999999999994,Forecast
+Kalimantan Timur,2027,Penduduk_Menggunakan_Komputer,16.464999999999975,Forecast
+Kalimantan Timur,2028,Penduduk_Menggunakan_Komputer,16.579999999999984,Forecast
+Kalimantan Timur,2029,Penduduk_Menggunakan_Komputer,16.694999999999993,Forecast
+Kalimantan Timur,2026,Rumah_Tangga_Komputer,31.31179836002169,Forecast
+Kalimantan Timur,2027,Rumah_Tangga_Komputer,31.896594932409343,Forecast
+Kalimantan Timur,2028,Rumah_Tangga_Komputer,32.481391504796996,Forecast
+Kalimantan Timur,2029,Rumah_Tangga_Komputer,33.06618807718465,Forecast
+Kalimantan Timur,2026,Rumah_Tangga_Akses_Internet,97.21552244678453,Forecast
+Kalimantan Timur,2027,Rumah_Tangga_Akses_Internet,98.31059376737066,Forecast
+Kalimantan Timur,2028,Rumah_Tangga_Akses_Internet,99.40566508795679,Forecast
+Kalimantan Timur,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Kalimantan Utara,2022,Penduduk_Akses_Internet,77.43,Aktual
+Kalimantan Utara,2022,Penduduk_Telepon_Seluler,78.62,Aktual
+Kalimantan Utara,2022,Penduduk_Menggunakan_Komputer,15.84,Aktual
+Kalimantan Utara,2022,Rumah_Tangga_Komputer,28.17,Aktual
+Kalimantan Utara,2022,Rumah_Tangga_Akses_Internet,94.27,Aktual
+Kalimantan Utara,2023,Penduduk_Akses_Internet,77.03,Aktual
+Kalimantan Utara,2023,Penduduk_Telepon_Seluler,77.57,Aktual
+Kalimantan Utara,2023,Penduduk_Menggunakan_Komputer,15.37,Aktual
+Kalimantan Utara,2023,Rumah_Tangga_Komputer,27.22,Aktual
+Kalimantan Utara,2023,Rumah_Tangga_Akses_Internet,93.76,Aktual
+Kalimantan Utara,2024,Penduduk_Akses_Internet,77.44,Aktual
+Kalimantan Utara,2024,Penduduk_Telepon_Seluler,77.5,Aktual
+Kalimantan Utara,2024,Penduduk_Menggunakan_Komputer,11.81,Aktual
+Kalimantan Utara,2024,Rumah_Tangga_Komputer,25.05,Aktual
+Kalimantan Utara,2024,Rumah_Tangga_Akses_Internet,94.58,Aktual
+Kalimantan Utara,2025,Penduduk_Akses_Internet,81.58,Aktual
+Kalimantan Utara,2025,Penduduk_Telepon_Seluler,79.45,Aktual
+Kalimantan Utara,2025,Penduduk_Menggunakan_Komputer,14.18,Aktual
+Kalimantan Utara,2025,Rumah_Tangga_Komputer,25.95,Aktual
+Kalimantan Utara,2025,Rumah_Tangga_Akses_Internet,96.18,Aktual
+Kalimantan Utara,2026,Penduduk_Akses_Internet,81.58500000000004,Forecast
+Kalimantan Utara,2027,Penduduk_Akses_Internet,82.8710000000001,Forecast
+Kalimantan Utara,2028,Penduduk_Akses_Internet,84.15700000000015,Forecast
+Kalimantan Utara,2029,Penduduk_Akses_Internet,85.44300000000021,Forecast
+Kalimantan Utara,2026,Penduduk_Telepon_Seluler,79.37709318176597,Forecast
+Kalimantan Utara,2027,Penduduk_Telepon_Seluler,79.67845702371716,Forecast
+Kalimantan Utara,2028,Penduduk_Telepon_Seluler,79.97982086566836,Forecast
+Kalimantan Utara,2029,Penduduk_Telepon_Seluler,80.28118470761954,Forecast
+Kalimantan Utara,2026,Penduduk_Menggunakan_Komputer,12.164999999999964,Forecast
+Kalimantan Utara,2027,Penduduk_Menggunakan_Komputer,11.310999999999922,Forecast
+Kalimantan Utara,2028,Penduduk_Menggunakan_Komputer,10.45699999999988,Forecast
+Kalimantan Utara,2029,Penduduk_Menggunakan_Komputer,9.602999999999838,Forecast
+Kalimantan Utara,2026,Rumah_Tangga_Komputer,24.818580146179446,Forecast
+Kalimantan Utara,2027,Rumah_Tangga_Komputer,24.0262423665906,Forecast
+Kalimantan Utara,2028,Rumah_Tangga_Komputer,23.233904587001753,Forecast
+Kalimantan Utara,2029,Rumah_Tangga_Komputer,22.441566807412908,Forecast
+Kalimantan Utara,2026,Rumah_Tangga_Akses_Internet,96.63256058669927,Forecast
+Kalimantan Utara,2027,Rumah_Tangga_Akses_Internet,97.31032809506645,Forecast
+Kalimantan Utara,2028,Rumah_Tangga_Akses_Internet,97.98809560343362,Forecast
+Kalimantan Utara,2029,Rumah_Tangga_Akses_Internet,98.6658631118008,Forecast
+Sulawesi Utara,2022,Penduduk_Akses_Internet,61.63,Aktual
+Sulawesi Utara,2022,Penduduk_Telepon_Seluler,71.12,Aktual
+Sulawesi Utara,2022,Penduduk_Menggunakan_Komputer,11.37,Aktual
+Sulawesi Utara,2022,Rumah_Tangga_Komputer,17.12,Aktual
+Sulawesi Utara,2022,Rumah_Tangga_Akses_Internet,83.54,Aktual
+Sulawesi Utara,2023,Penduduk_Akses_Internet,64.81,Aktual
+Sulawesi Utara,2023,Penduduk_Telepon_Seluler,70.22,Aktual
+Sulawesi Utara,2023,Penduduk_Menggunakan_Komputer,11.66,Aktual
+Sulawesi Utara,2023,Rumah_Tangga_Komputer,17.23,Aktual
+Sulawesi Utara,2023,Rumah_Tangga_Akses_Internet,85.86,Aktual
+Sulawesi Utara,2024,Penduduk_Akses_Internet,68.44,Aktual
+Sulawesi Utara,2024,Penduduk_Telepon_Seluler,71.7,Aktual
+Sulawesi Utara,2024,Penduduk_Menggunakan_Komputer,10.97,Aktual
+Sulawesi Utara,2024,Rumah_Tangga_Komputer,17.77,Aktual
+Sulawesi Utara,2024,Rumah_Tangga_Akses_Internet,89.31,Aktual
+Sulawesi Utara,2025,Penduduk_Akses_Internet,74.12,Aktual
+Sulawesi Utara,2025,Penduduk_Telepon_Seluler,73.5,Aktual
+Sulawesi Utara,2025,Penduduk_Menggunakan_Komputer,11.13,Aktual
+Sulawesi Utara,2025,Rumah_Tangga_Komputer,17.44,Aktual
+Sulawesi Utara,2025,Rumah_Tangga_Akses_Internet,91.15,Aktual
+Sulawesi Utara,2026,Penduduk_Akses_Internet,77.52499999999964,Forecast
+Sulawesi Utara,2027,Penduduk_Akses_Internet,81.63500000000022,Forecast
+Sulawesi Utara,2028,Penduduk_Akses_Internet,85.74499999999898,Forecast
+Sulawesi Utara,2029,Penduduk_Akses_Internet,89.85499999999956,Forecast
+Sulawesi Utara,2026,Penduduk_Telepon_Seluler,74.12311095789302,Forecast
+Sulawesi Utara,2027,Penduduk_Telepon_Seluler,74.99415296652643,Forecast
+Sulawesi Utara,2028,Penduduk_Telepon_Seluler,75.86519497515984,Forecast
+Sulawesi Utara,2029,Penduduk_Telepon_Seluler,76.73623698379325,Forecast
+Sulawesi Utara,2026,Penduduk_Menggunakan_Komputer,10.930000000000007,Forecast
+Sulawesi Utara,2027,Penduduk_Menggunakan_Komputer,10.789000000000044,Forecast
+Sulawesi Utara,2028,Penduduk_Menggunakan_Komputer,10.648000000000025,Forecast
+Sulawesi Utara,2029,Penduduk_Menggunakan_Komputer,10.507000000000005,Forecast
+Sulawesi Utara,2026,Rumah_Tangga_Komputer,17.653240425618957,Forecast
+Sulawesi Utara,2027,Rumah_Tangga_Komputer,17.77753429807928,Forecast
+Sulawesi Utara,2028,Rumah_Tangga_Komputer,17.901828170539606,Forecast
+Sulawesi Utara,2029,Rumah_Tangga_Komputer,18.02612204299993,Forecast
+Sulawesi Utara,2026,Rumah_Tangga_Akses_Internet,93.86663443668016,Forecast
+Sulawesi Utara,2027,Rumah_Tangga_Akses_Internet,96.44700861468786,Forecast
+Sulawesi Utara,2028,Rumah_Tangga_Akses_Internet,99.02738279269556,Forecast
+Sulawesi Utara,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Sulawesi Tengah,2022,Penduduk_Akses_Internet,54.49,Aktual
+Sulawesi Tengah,2022,Penduduk_Telepon_Seluler,62.39,Aktual
+Sulawesi Tengah,2022,Penduduk_Menggunakan_Komputer,10.16,Aktual
+Sulawesi Tengah,2022,Rumah_Tangga_Komputer,14.32,Aktual
+Sulawesi Tengah,2022,Rumah_Tangga_Akses_Internet,82.23,Aktual
+Sulawesi Tengah,2023,Penduduk_Akses_Internet,58.22,Aktual
+Sulawesi Tengah,2023,Penduduk_Telepon_Seluler,61.02,Aktual
+Sulawesi Tengah,2023,Penduduk_Menggunakan_Komputer,11.32,Aktual
+Sulawesi Tengah,2023,Rumah_Tangga_Komputer,15.67,Aktual
+Sulawesi Tengah,2023,Rumah_Tangga_Akses_Internet,84.61,Aktual
+Sulawesi Tengah,2024,Penduduk_Akses_Internet,62.44,Aktual
+Sulawesi Tengah,2024,Penduduk_Telepon_Seluler,64.32,Aktual
+Sulawesi Tengah,2024,Penduduk_Menggunakan_Komputer,10.99,Aktual
+Sulawesi Tengah,2024,Rumah_Tangga_Komputer,16.28,Aktual
+Sulawesi Tengah,2024,Rumah_Tangga_Akses_Internet,87.94,Aktual
+Sulawesi Tengah,2025,Penduduk_Akses_Internet,70.5,Aktual
+Sulawesi Tengah,2025,Penduduk_Telepon_Seluler,67.37,Aktual
+Sulawesi Tengah,2025,Penduduk_Menggunakan_Komputer,10.45,Aktual
+Sulawesi Tengah,2025,Rumah_Tangga_Komputer,16.28,Aktual
+Sulawesi Tengah,2025,Rumah_Tangga_Akses_Internet,90.25,Aktual
+Sulawesi Tengah,2026,Penduduk_Akses_Internet,74.47500000000036,Forecast
+Sulawesi Tengah,2027,Penduduk_Akses_Internet,79.70000000000073,Forecast
+Sulawesi Tengah,2028,Penduduk_Akses_Internet,84.92500000000109,Forecast
+Sulawesi Tengah,2029,Penduduk_Akses_Internet,90.15000000000146,Forecast
+Sulawesi Tengah,2026,Penduduk_Telepon_Seluler,68.82593225614306,Forecast
+Sulawesi Tengah,2027,Penduduk_Telepon_Seluler,70.64180543669164,Forecast
+Sulawesi Tengah,2028,Penduduk_Telepon_Seluler,72.4576786172402,Forecast
+Sulawesi Tengah,2029,Penduduk_Telepon_Seluler,74.27355179778878,Forecast
+Sulawesi Tengah,2026,Penduduk_Menggunakan_Komputer,10.865000000000009,Forecast
+Sulawesi Tengah,2027,Penduduk_Menggunakan_Komputer,10.918999999999997,Forecast
+Sulawesi Tengah,2028,Penduduk_Menggunakan_Komputer,10.972999999999999,Forecast
+Sulawesi Tengah,2029,Penduduk_Menggunakan_Komputer,11.027000000000001,Forecast
+Sulawesi Tengah,2026,Rumah_Tangga_Komputer,17.061820712931674,Forecast
+Sulawesi Tengah,2027,Rumah_Tangga_Komputer,17.692966467904867,Forecast
+Sulawesi Tengah,2028,Rumah_Tangga_Komputer,18.324112222878057,Forecast
+Sulawesi Tengah,2029,Rumah_Tangga_Komputer,18.955257977851247,Forecast
+Sulawesi Tengah,2026,Rumah_Tangga_Akses_Internet,93.02526515413945,Forecast
+Sulawesi Tengah,2027,Rumah_Tangga_Akses_Internet,95.7340537610692,Forecast
+Sulawesi Tengah,2028,Rumah_Tangga_Akses_Internet,98.44284236799896,Forecast
+Sulawesi Tengah,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Sulawesi Selatan,2022,Penduduk_Akses_Internet,64.14,Aktual
+Sulawesi Selatan,2022,Penduduk_Telepon_Seluler,71.1,Aktual
+Sulawesi Selatan,2022,Penduduk_Menggunakan_Komputer,13.48,Aktual
+Sulawesi Selatan,2022,Rumah_Tangga_Komputer,20.61,Aktual
+Sulawesi Selatan,2022,Rumah_Tangga_Akses_Internet,88.33,Aktual
+Sulawesi Selatan,2023,Penduduk_Akses_Internet,66.95,Aktual
+Sulawesi Selatan,2023,Penduduk_Telepon_Seluler,69.83,Aktual
+Sulawesi Selatan,2023,Penduduk_Menggunakan_Komputer,12.67,Aktual
+Sulawesi Selatan,2023,Rumah_Tangga_Komputer,20.51,Aktual
+Sulawesi Selatan,2023,Rumah_Tangga_Akses_Internet,89.52,Aktual
+Sulawesi Selatan,2024,Penduduk_Akses_Internet,70.1,Aktual
+Sulawesi Selatan,2024,Penduduk_Telepon_Seluler,70.36,Aktual
+Sulawesi Selatan,2024,Penduduk_Menggunakan_Komputer,12.97,Aktual
+Sulawesi Selatan,2024,Rumah_Tangga_Komputer,22.13,Aktual
+Sulawesi Selatan,2024,Rumah_Tangga_Akses_Internet,92.18,Aktual
+Sulawesi Selatan,2025,Penduduk_Akses_Internet,77.17,Aktual
+Sulawesi Selatan,2025,Penduduk_Telepon_Seluler,72.95,Aktual
+Sulawesi Selatan,2025,Penduduk_Menggunakan_Komputer,14.08,Aktual
+Sulawesi Selatan,2025,Rumah_Tangga_Komputer,23.17,Aktual
+Sulawesi Selatan,2025,Rumah_Tangga_Akses_Internet,93.93,Aktual
+Sulawesi Selatan,2026,Penduduk_Akses_Internet,80.14999999999964,Forecast
+Sulawesi Selatan,2027,Penduduk_Akses_Internet,84.3739999999998,Forecast
+Sulawesi Selatan,2028,Penduduk_Akses_Internet,88.59799999999996,Forecast
+Sulawesi Selatan,2029,Penduduk_Akses_Internet,92.82200000000012,Forecast
+Sulawesi Selatan,2026,Penduduk_Telepon_Seluler,73.16884260343201,Forecast
+Sulawesi Selatan,2027,Penduduk_Telepon_Seluler,73.83725110664572,Forecast
+Sulawesi Selatan,2028,Penduduk_Telepon_Seluler,74.50565960985942,Forecast
+Sulawesi Selatan,2029,Penduduk_Telepon_Seluler,75.17406811307313,Forecast
+Sulawesi Selatan,2026,Penduduk_Menggunakan_Komputer,13.824999999999989,Forecast
+Sulawesi Selatan,2027,Penduduk_Menggunakan_Komputer,14.034999999999968,Forecast
+Sulawesi Selatan,2028,Penduduk_Menggunakan_Komputer,14.245000000000005,Forecast
+Sulawesi Selatan,2029,Penduduk_Menggunakan_Komputer,14.454999999999984,Forecast
+Sulawesi Selatan,2026,Rumah_Tangga_Komputer,24.02039234553272,Forecast
+Sulawesi Selatan,2027,Rumah_Tangga_Komputer,24.933021770126434,Forecast
+Sulawesi Selatan,2028,Rumah_Tangga_Komputer,25.845651194720144,Forecast
+Sulawesi Selatan,2029,Rumah_Tangga_Komputer,26.758280619313854,Forecast
+Sulawesi Selatan,2026,Rumah_Tangga_Akses_Internet,95.85547522373861,Forecast
+Sulawesi Selatan,2027,Rumah_Tangga_Akses_Internet,97.77442138969559,Forecast
+Sulawesi Selatan,2028,Rumah_Tangga_Akses_Internet,99.69336755565257,Forecast
+Sulawesi Selatan,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Sulawesi Tenggara,2022,Penduduk_Akses_Internet,61.88,Aktual
+Sulawesi Tenggara,2022,Penduduk_Telepon_Seluler,70.0,Aktual
+Sulawesi Tenggara,2022,Penduduk_Menggunakan_Komputer,11.73,Aktual
+Sulawesi Tenggara,2022,Rumah_Tangga_Komputer,17.84,Aktual
+Sulawesi Tenggara,2022,Rumah_Tangga_Akses_Internet,87.6,Aktual
+Sulawesi Tenggara,2023,Penduduk_Akses_Internet,65.83,Aktual
+Sulawesi Tenggara,2023,Penduduk_Telepon_Seluler,70.94,Aktual
+Sulawesi Tenggara,2023,Penduduk_Menggunakan_Komputer,12.11,Aktual
+Sulawesi Tenggara,2023,Rumah_Tangga_Komputer,19.4,Aktual
+Sulawesi Tenggara,2023,Rumah_Tangga_Akses_Internet,88.69,Aktual
+Sulawesi Tenggara,2024,Penduduk_Akses_Internet,70.36,Aktual
+Sulawesi Tenggara,2024,Penduduk_Telepon_Seluler,71.95,Aktual
+Sulawesi Tenggara,2024,Penduduk_Menggunakan_Komputer,12.29,Aktual
+Sulawesi Tenggara,2024,Rumah_Tangga_Komputer,19.77,Aktual
+Sulawesi Tenggara,2024,Rumah_Tangga_Akses_Internet,91.7,Aktual
+Sulawesi Tenggara,2025,Penduduk_Akses_Internet,76.87,Aktual
+Sulawesi Tenggara,2025,Penduduk_Telepon_Seluler,74.43,Aktual
+Sulawesi Tenggara,2025,Penduduk_Menggunakan_Komputer,13.45,Aktual
+Sulawesi Tenggara,2025,Rumah_Tangga_Komputer,20.8,Aktual
+Sulawesi Tenggara,2025,Rumah_Tangga_Akses_Internet,92.85,Aktual
+Sulawesi Tenggara,2026,Penduduk_Akses_Internet,81.11000000000058,Forecast
+Sulawesi Tenggara,2027,Penduduk_Akses_Internet,86.05999999999949,Forecast
+Sulawesi Tenggara,2028,Penduduk_Akses_Internet,91.01000000000022,Forecast
+Sulawesi Tenggara,2029,Penduduk_Akses_Internet,95.96000000000095,Forecast
+Sulawesi Tenggara,2026,Penduduk_Telepon_Seluler,75.68547486615158,Forecast
+Sulawesi Tenggara,2027,Penduduk_Telepon_Seluler,77.15877973126369,Forecast
+Sulawesi Tenggara,2028,Penduduk_Telepon_Seluler,78.63208459637582,Forecast
+Sulawesi Tenggara,2029,Penduduk_Telepon_Seluler,80.10538946148793,Forecast
+Sulawesi Tenggara,2026,Penduduk_Menggunakan_Komputer,13.730000000000018,Forecast
+Sulawesi Tenggara,2027,Penduduk_Menggunakan_Komputer,14.264000000000124,Forecast
+Sulawesi Tenggara,2028,Penduduk_Menggunakan_Komputer,14.798000000000002,Forecast
+Sulawesi Tenggara,2029,Penduduk_Menggunakan_Komputer,15.332000000000107,Forecast
+Sulawesi Tenggara,2026,Rumah_Tangga_Komputer,21.750407856465117,Forecast
+Sulawesi Tenggara,2027,Rumah_Tangga_Komputer,22.69504983085224,Forecast
+Sulawesi Tenggara,2028,Rumah_Tangga_Komputer,23.639691805239366,Forecast
+Sulawesi Tenggara,2029,Rumah_Tangga_Komputer,24.58433377962649,Forecast
+Sulawesi Tenggara,2026,Rumah_Tangga_Akses_Internet,94.77619079751564,Forecast
+Sulawesi Tenggara,2027,Rumah_Tangga_Akses_Internet,96.59707016018362,Forecast
+Sulawesi Tenggara,2028,Rumah_Tangga_Akses_Internet,98.41794952285161,Forecast
+Sulawesi Tenggara,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Gorontalo,2022,Penduduk_Akses_Internet,60.31,Aktual
+Gorontalo,2022,Penduduk_Telepon_Seluler,67.73,Aktual
+Gorontalo,2022,Penduduk_Menggunakan_Komputer,13.39,Aktual
+Gorontalo,2022,Rumah_Tangga_Komputer,14.98,Aktual
+Gorontalo,2022,Rumah_Tangga_Akses_Internet,85.52,Aktual
+Gorontalo,2023,Penduduk_Akses_Internet,63.77,Aktual
+Gorontalo,2023,Penduduk_Telepon_Seluler,67.55,Aktual
+Gorontalo,2023,Penduduk_Menggunakan_Komputer,13.86,Aktual
+Gorontalo,2023,Rumah_Tangga_Komputer,17.89,Aktual
+Gorontalo,2023,Rumah_Tangga_Akses_Internet,87.93,Aktual
+Gorontalo,2024,Penduduk_Akses_Internet,65.92,Aktual
+Gorontalo,2024,Penduduk_Telepon_Seluler,68.06,Aktual
+Gorontalo,2024,Penduduk_Menggunakan_Komputer,12.86,Aktual
+Gorontalo,2024,Rumah_Tangga_Komputer,17.23,Aktual
+Gorontalo,2024,Rumah_Tangga_Akses_Internet,90.17,Aktual
+Gorontalo,2025,Penduduk_Akses_Internet,72.93,Aktual
+Gorontalo,2025,Penduduk_Telepon_Seluler,69.78,Aktual
+Gorontalo,2025,Penduduk_Menggunakan_Komputer,12.57,Aktual
+Gorontalo,2025,Rumah_Tangga_Komputer,17.67,Aktual
+Gorontalo,2025,Rumah_Tangga_Akses_Internet,91.77,Aktual
+Gorontalo,2026,Penduduk_Akses_Internet,75.73500000000058,Forecast
+Gorontalo,2027,Penduduk_Akses_Internet,79.73600000000079,Forecast
+Gorontalo,2028,Penduduk_Akses_Internet,83.73700000000008,Forecast
+Gorontalo,2029,Penduduk_Akses_Internet,87.73800000000028,Forecast
+Gorontalo,2026,Penduduk_Telepon_Seluler,70.24861905781427,Forecast
+Gorontalo,2027,Penduduk_Telepon_Seluler,70.9501611868301,Forecast
+Gorontalo,2028,Penduduk_Telepon_Seluler,71.65170331584595,Forecast
+Gorontalo,2029,Penduduk_Telepon_Seluler,72.3532454448618,Forecast
+Gorontalo,2026,Penduduk_Menggunakan_Komputer,12.30499999999995,Forecast
+Gorontalo,2027,Penduduk_Menggunakan_Komputer,11.958999999999946,Forecast
+Gorontalo,2028,Penduduk_Menggunakan_Komputer,11.612999999999943,Forecast
+Gorontalo,2029,Penduduk_Menggunakan_Komputer,11.266999999999939,Forecast
+Gorontalo,2026,Rumah_Tangga_Komputer,18.58814067453295,Forecast
+Gorontalo,2027,Rumah_Tangga_Komputer,19.362135379147965,Forecast
+Gorontalo,2028,Rumah_Tangga_Komputer,20.136130083762982,Forecast
+Gorontalo,2029,Rumah_Tangga_Komputer,20.910124788377995,Forecast
+Gorontalo,2026,Rumah_Tangga_Akses_Internet,93.956836801222,Forecast
+Gorontalo,2027,Rumah_Tangga_Akses_Internet,96.037005612084,Forecast
+Gorontalo,2028,Rumah_Tangga_Akses_Internet,98.11717442294601,Forecast
+Gorontalo,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Sulawesi Barat,2022,Penduduk_Akses_Internet,55.38,Aktual
+Sulawesi Barat,2022,Penduduk_Telepon_Seluler,61.07,Aktual
+Sulawesi Barat,2022,Penduduk_Menggunakan_Komputer,9.41,Aktual
+Sulawesi Barat,2022,Rumah_Tangga_Komputer,13.61,Aktual
+Sulawesi Barat,2022,Rumah_Tangga_Akses_Internet,82.09,Aktual
+Sulawesi Barat,2023,Penduduk_Akses_Internet,59.89,Aktual
+Sulawesi Barat,2023,Penduduk_Telepon_Seluler,61.89,Aktual
+Sulawesi Barat,2023,Penduduk_Menggunakan_Komputer,10.78,Aktual
+Sulawesi Barat,2023,Rumah_Tangga_Komputer,12.62,Aktual
+Sulawesi Barat,2023,Rumah_Tangga_Akses_Internet,84.56,Aktual
+Sulawesi Barat,2024,Penduduk_Akses_Internet,66.61,Aktual
+Sulawesi Barat,2024,Penduduk_Telepon_Seluler,62.39,Aktual
+Sulawesi Barat,2024,Penduduk_Menggunakan_Komputer,10.02,Aktual
+Sulawesi Barat,2024,Rumah_Tangga_Komputer,13.98,Aktual
+Sulawesi Barat,2024,Rumah_Tangga_Akses_Internet,89.67,Aktual
+Sulawesi Barat,2025,Penduduk_Akses_Internet,73.61,Aktual
+Sulawesi Barat,2025,Penduduk_Telepon_Seluler,66.3,Aktual
+Sulawesi Barat,2025,Penduduk_Menggunakan_Komputer,10.59,Aktual
+Sulawesi Barat,2025,Rumah_Tangga_Komputer,15.96,Aktual
+Sulawesi Barat,2025,Rumah_Tangga_Akses_Internet,92.72,Aktual
+Sulawesi Barat,2026,Penduduk_Akses_Internet,79.22499999999854,Forecast
+Sulawesi Barat,2027,Penduduk_Akses_Internet,85.36599999999999,Forecast
+Sulawesi Barat,2028,Penduduk_Akses_Internet,91.5069999999996,Forecast
+Sulawesi Barat,2029,Penduduk_Akses_Internet,97.64799999999923,Forecast
+Sulawesi Barat,2026,Penduduk_Telepon_Seluler,67.55512956456312,Forecast
+Sulawesi Barat,2027,Penduduk_Telepon_Seluler,69.27466355519249,Forecast
+Sulawesi Barat,2028,Penduduk_Telepon_Seluler,70.99419754582188,Forecast
+Sulawesi Barat,2029,Penduduk_Telepon_Seluler,72.71373153645125,Forecast
+Sulawesi Barat,2026,Penduduk_Menggunakan_Komputer,10.895000000000095,Forecast
+Sulawesi Barat,2027,Penduduk_Menggunakan_Komputer,11.173000000000116,Forecast
+Sulawesi Barat,2028,Penduduk_Menggunakan_Komputer,11.451000000000136,Forecast
+Sulawesi Barat,2029,Penduduk_Menggunakan_Komputer,11.729000000000042,Forecast
+Sulawesi Barat,2026,Rumah_Tangga_Komputer,16.53025636923991,Forecast
+Sulawesi Barat,2027,Rumah_Tangga_Komputer,17.38914370840016,Forecast
+Sulawesi Barat,2028,Rumah_Tangga_Komputer,18.248031047560406,Forecast
+Sulawesi Barat,2029,Rumah_Tangga_Komputer,19.106918386720654,Forecast
+Sulawesi Barat,2026,Rumah_Tangga_Akses_Internet,96.4319579062369,Forecast
+Sulawesi Barat,2027,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Sulawesi Barat,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Sulawesi Barat,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Maluku,2022,Penduduk_Akses_Internet,55.22,Aktual
+Maluku,2022,Penduduk_Telepon_Seluler,63.85,Aktual
+Maluku,2022,Penduduk_Menggunakan_Komputer,12.74,Aktual
+Maluku,2022,Rumah_Tangga_Komputer,18.17,Aktual
+Maluku,2022,Rumah_Tangga_Akses_Internet,82.36,Aktual
+Maluku,2023,Penduduk_Akses_Internet,58.54,Aktual
+Maluku,2023,Penduduk_Telepon_Seluler,63.21,Aktual
+Maluku,2023,Penduduk_Menggunakan_Komputer,13.23,Aktual
+Maluku,2023,Rumah_Tangga_Komputer,17.58,Aktual
+Maluku,2023,Rumah_Tangga_Akses_Internet,82.56,Aktual
+Maluku,2024,Penduduk_Akses_Internet,59.96,Aktual
+Maluku,2024,Penduduk_Telepon_Seluler,63.44,Aktual
+Maluku,2024,Penduduk_Menggunakan_Komputer,11.67,Aktual
+Maluku,2024,Rumah_Tangga_Komputer,17.73,Aktual
+Maluku,2024,Rumah_Tangga_Akses_Internet,87.27,Aktual
+Maluku,2025,Penduduk_Akses_Internet,69.74,Aktual
+Maluku,2025,Penduduk_Telepon_Seluler,68.64,Aktual
+Maluku,2025,Penduduk_Menggunakan_Komputer,12.72,Aktual
+Maluku,2025,Rumah_Tangga_Komputer,20.34,Aktual
+Maluku,2025,Rumah_Tangga_Akses_Internet,92.62,Aktual
+Maluku,2026,Penduduk_Akses_Internet,72.10999999999876,Forecast
+Maluku,2027,Penduduk_Akses_Internet,76.60799999999836,Forecast
+Maluku,2028,Penduduk_Akses_Internet,81.10599999999977,Forecast
+Maluku,2029,Penduduk_Akses_Internet,85.60399999999936,Forecast
+Maluku,2026,Penduduk_Telepon_Seluler,69.45613672735338,Forecast
+Maluku,2027,Penduduk_Telepon_Seluler,71.06244714753252,Forecast
+Maluku,2028,Penduduk_Telepon_Seluler,72.66875756771168,Forecast
+Maluku,2029,Penduduk_Telepon_Seluler,74.27506798789084,Forecast
+Maluku,2026,Penduduk_Menggunakan_Komputer,12.185000000000002,Forecast
+Maluku,2027,Penduduk_Menggunakan_Komputer,12.022999999999968,Forecast
+Maluku,2028,Penduduk_Menggunakan_Komputer,11.86099999999999,Forecast
+Maluku,2029,Penduduk_Menggunakan_Komputer,11.698999999999955,Forecast
+Maluku,2026,Rumah_Tangga_Komputer,20.661023059904004,Forecast
+Maluku,2027,Rumah_Tangga_Komputer,21.39939108654808,Forecast
+Maluku,2028,Rumah_Tangga_Komputer,22.137759113192157,Forecast
+Maluku,2029,Rumah_Tangga_Komputer,22.876127139836235,Forecast
+Maluku,2026,Rumah_Tangga_Akses_Internet,95.71245843937356,Forecast
+Maluku,2027,Rumah_Tangga_Akses_Internet,99.27958156344118,Forecast
+Maluku,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Maluku,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Maluku Utara,2022,Penduduk_Akses_Internet,50.2,Aktual
+Maluku Utara,2022,Penduduk_Telepon_Seluler,61.58,Aktual
+Maluku Utara,2022,Penduduk_Menggunakan_Komputer,9.4,Aktual
+Maluku Utara,2022,Rumah_Tangga_Komputer,13.58,Aktual
+Maluku Utara,2022,Rumah_Tangga_Akses_Internet,77.8,Aktual
+Maluku Utara,2023,Penduduk_Akses_Internet,53.48,Aktual
+Maluku Utara,2023,Penduduk_Telepon_Seluler,60.85,Aktual
+Maluku Utara,2023,Penduduk_Menggunakan_Komputer,9.89,Aktual
+Maluku Utara,2023,Rumah_Tangga_Komputer,15.92,Aktual
+Maluku Utara,2023,Rumah_Tangga_Akses_Internet,81.88,Aktual
+Maluku Utara,2024,Penduduk_Akses_Internet,59.17,Aktual
+Maluku Utara,2024,Penduduk_Telepon_Seluler,64.14,Aktual
+Maluku Utara,2024,Penduduk_Menggunakan_Komputer,9.61,Aktual
+Maluku Utara,2024,Rumah_Tangga_Komputer,17.02,Aktual
+Maluku Utara,2024,Rumah_Tangga_Akses_Internet,87.28,Aktual
+Maluku Utara,2025,Penduduk_Akses_Internet,64.97,Aktual
+Maluku Utara,2025,Penduduk_Telepon_Seluler,67.79,Aktual
+Maluku Utara,2025,Penduduk_Menggunakan_Komputer,9.5,Aktual
+Maluku Utara,2025,Rumah_Tangga_Komputer,17.52,Aktual
+Maluku Utara,2025,Rumah_Tangga_Akses_Internet,91.78,Aktual
+Maluku Utara,2026,Penduduk_Akses_Internet,69.45499999999993,Forecast
+Maluku Utara,2027,Penduduk_Akses_Internet,74.45499999999993,Forecast
+Maluku Utara,2028,Penduduk_Akses_Internet,79.45499999999993,Forecast
+Maluku Utara,2029,Penduduk_Akses_Internet,84.45499999999993,Forecast
+Maluku Utara,2026,Penduduk_Telepon_Seluler,69.59919833533803,Forecast
+Maluku Utara,2027,Penduduk_Telepon_Seluler,71.8011520326651,Forecast
+Maluku Utara,2028,Penduduk_Telepon_Seluler,74.00310572999217,Forecast
+Maluku Utara,2029,Penduduk_Telepon_Seluler,76.20505942731923,Forecast
+Maluku Utara,2026,Penduduk_Menggunakan_Komputer,9.605,Forecast
+Maluku Utara,2027,Penduduk_Menggunakan_Komputer,9.607,Forecast
+Maluku Utara,2028,Penduduk_Menggunakan_Komputer,9.608999999999998,Forecast
+Maluku Utara,2029,Penduduk_Menggunakan_Komputer,9.610999999999997,Forecast
+Maluku Utara,2026,Rumah_Tangga_Komputer,18.986151222289788,Forecast
+Maluku Utara,2027,Rumah_Tangga_Komputer,20.26067306447327,Forecast
+Maluku Utara,2028,Rumah_Tangga_Komputer,21.535194906656756,Forecast
+Maluku Utara,2029,Rumah_Tangga_Komputer,22.809716748840238,Forecast
+Maluku Utara,2026,Rumah_Tangga_Akses_Internet,96.50507066346009,Forecast
+Maluku Utara,2027,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Maluku Utara,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Maluku Utara,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Papua Barat,2022,Penduduk_Akses_Internet,58.27,Aktual
+Papua Barat,2022,Penduduk_Telepon_Seluler,68.01,Aktual
+Papua Barat,2022,Penduduk_Menggunakan_Komputer,11.0,Aktual
+Papua Barat,2022,Rumah_Tangga_Komputer,20.04,Aktual
+Papua Barat,2022,Rumah_Tangga_Akses_Internet,78.32,Aktual
+Papua Barat,2023,Penduduk_Akses_Internet,60.01,Aktual
+Papua Barat,2023,Penduduk_Telepon_Seluler,65.76,Aktual
+Papua Barat,2023,Penduduk_Menggunakan_Komputer,11.4,Aktual
+Papua Barat,2023,Rumah_Tangga_Komputer,18.7,Aktual
+Papua Barat,2023,Rumah_Tangga_Akses_Internet,82.05,Aktual
+Papua Barat,2024,Penduduk_Akses_Internet,62.96,Aktual
+Papua Barat,2024,Penduduk_Telepon_Seluler,68.29,Aktual
+Papua Barat,2024,Penduduk_Menggunakan_Komputer,10.09,Aktual
+Papua Barat,2024,Rumah_Tangga_Komputer,18.35,Aktual
+Papua Barat,2024,Rumah_Tangga_Akses_Internet,85.51,Aktual
+Papua Barat,2025,Penduduk_Akses_Internet,70.17,Aktual
+Papua Barat,2025,Penduduk_Telepon_Seluler,70.03,Aktual
+Papua Barat,2025,Penduduk_Menggunakan_Komputer,10.14,Aktual
+Papua Barat,2025,Rumah_Tangga_Komputer,16.49,Aktual
+Papua Barat,2025,Rumah_Tangga_Akses_Internet,89.47,Aktual
+Papua Barat,2026,Penduduk_Akses_Internet,72.51500000000033,Forecast
+Papua Barat,2027,Penduduk_Akses_Internet,76.38000000000011,Forecast
+Papua Barat,2028,Penduduk_Akses_Internet,80.24499999999989,Forecast
+Papua Barat,2029,Penduduk_Akses_Internet,84.10999999999967,Forecast
+Papua Barat,2026,Penduduk_Telepon_Seluler,70.57351318217928,Forecast
+Papua Barat,2027,Penduduk_Telepon_Seluler,71.40845576184005,Forecast
+Papua Barat,2028,Penduduk_Telepon_Seluler,72.2433983415008,Forecast
+Papua Barat,2029,Penduduk_Telepon_Seluler,73.07834092116154,Forecast
+Papua Barat,2026,Penduduk_Menggunakan_Komputer,9.68500000000006,Forecast
+Papua Barat,2027,Penduduk_Menggunakan_Komputer,9.29600000000005,Forecast
+Papua Barat,2028,Penduduk_Menggunakan_Komputer,8.907000000000039,Forecast
+Papua Barat,2029,Penduduk_Menggunakan_Komputer,8.518000000000029,Forecast
+Papua Barat,2026,Rumah_Tangga_Komputer,15.47906125066768,Forecast
+Papua Barat,2027,Rumah_Tangga_Komputer,14.3344057281028,Forecast
+Papua Barat,2028,Rumah_Tangga_Komputer,13.18975020553792,Forecast
+Papua Barat,2029,Rumah_Tangga_Komputer,12.04509468297304,Forecast
+Papua Barat,2026,Rumah_Tangga_Akses_Internet,93.12659760988701,Forecast
+Papua Barat,2027,Rumah_Tangga_Akses_Internet,96.8323745711068,Forecast
+Papua Barat,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Papua Barat,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Papua,2022,Penduduk_Akses_Internet,26.32,Aktual
+Papua,2022,Penduduk_Telepon_Seluler,35.33,Aktual
+Papua,2022,Penduduk_Menggunakan_Komputer,6.08,Aktual
+Papua,2022,Rumah_Tangga_Komputer,9.36,Aktual
+Papua,2022,Rumah_Tangga_Akses_Internet,35.14,Aktual
+Papua,2023,Penduduk_Akses_Internet,29.87,Aktual
+Papua,2023,Penduduk_Telepon_Seluler,37.95,Aktual
+Papua,2023,Penduduk_Menggunakan_Komputer,6.7,Aktual
+Papua,2023,Rumah_Tangga_Komputer,9.79,Aktual
+Papua,2023,Rumah_Tangga_Akses_Internet,38.71,Aktual
+Papua,2024,Penduduk_Akses_Internet,62.24,Aktual
+Papua,2024,Penduduk_Telepon_Seluler,67.97,Aktual
+Papua,2024,Penduduk_Menggunakan_Komputer,13.61,Aktual
+Papua,2024,Rumah_Tangga_Komputer,24.59,Aktual
+Papua,2024,Rumah_Tangga_Akses_Internet,81.99,Aktual
+Papua,2025,Penduduk_Akses_Internet,64.64,Aktual
+Papua,2025,Penduduk_Telepon_Seluler,68.56,Aktual
+Papua,2025,Penduduk_Menggunakan_Komputer,13.68,Aktual
+Papua,2025,Rumah_Tangga_Komputer,23.14,Aktual
+Papua,2025,Rumah_Tangga_Akses_Internet,84.49,Aktual
+Papua,2026,Penduduk_Akses_Internet,82.60000000000218,Forecast
+Papua,2027,Penduduk_Akses_Internet,97.33300000000236,Forecast
+Papua,2028,Penduduk_Akses_Internet,100.0,Forecast
+Papua,2029,Penduduk_Akses_Internet,100.0,Forecast
+Papua,2026,Penduduk_Telepon_Seluler,82.57824882643867,Forecast
+Papua,2027,Penduduk_Telepon_Seluler,94.67757643970016,Forecast
+Papua,2028,Penduduk_Telepon_Seluler,100.0,Forecast
+Papua,2029,Penduduk_Telepon_Seluler,100.0,Forecast
+Papua,2026,Penduduk_Menggunakan_Komputer,17.44499999999971,Forecast
+Papua,2027,Penduduk_Menggunakan_Komputer,20.416000000000167,Forecast
+Papua,2028,Penduduk_Menggunakan_Komputer,23.386999999999716,Forecast
+Papua,2029,Penduduk_Menggunakan_Komputer,26.358000000000175,Forecast
+Papua,2026,Rumah_Tangga_Komputer,29.396739500682276,Forecast
+Papua,2027,Rumah_Tangga_Komputer,34.5295642694134,Forecast
+Papua,2028,Rumah_Tangga_Komputer,39.662389038144525,Forecast
+Papua,2029,Rumah_Tangga_Komputer,44.79521380687565,Forecast
+Papua,2026,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Papua,2027,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Papua,2028,Rumah_Tangga_Akses_Internet,100.0,Forecast
+Papua,2029,Rumah_Tangga_Akses_Internet,100.0,Forecast
